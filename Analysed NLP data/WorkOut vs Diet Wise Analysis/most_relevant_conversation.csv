@@ -1,0 +1,1004 @@
+chat_row,text_message,cleaned_text,workout_related_words,diet_related_words
+1,Today was the horrible day for my sugar-free. I feel so disappointing about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'sugar-free', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+2,Today was the horrible day for my gym. I feel so hate about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+3,I great my sports session today! It really made a difference in my deadlift!,"['i', 'great', 'my', 'sports', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'deadlift', '!']",2,0
+4,Today was the bad day for my plank. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'plank', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+5,Today was the disappointing day for my nutrient-dense. I feel so hate about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'nutrient-dense', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+6,Today was the bad day for my gluten-free. I feel so poor about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'gluten-free', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+7,I positive my meal prep session today! It really made a difference in my sports!,"['i', 'positive', 'my', 'meal', 'prep', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'sports', '!']",1,0
+8,Today was the hate day for my recovery. I feel so disappointing about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'recovery', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+9,I good my gluten-free session today!,"['i', 'good', 'my', 'gluten-free', 'session', 'today', '!']",0,1
+10,Today was the poor day for my sugar-free. I feel so bad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'sugar-free', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+11,I happy my strength session today! It really made a difference in my motivation!,"['i', 'happy', 'my', 'strength', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'motivation', '!']",2,0
+12,Today was the poor day for my fitness. I feel so negative about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'fitness', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+13,I fantastic my healthy snacks session today! It really made a difference in my active lifestyle!,"['i', 'fantastic', 'my', 'healthy', 'snacks', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'active', 'lifestyle', '!']",0,0
+14,I excellent my health session today! It really made a difference in my workout!,"['i', 'excellent', 'my', 'health', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'workout', '!']",2,0
+15,I good my cardio session today!,"['i', 'good', 'my', 'cardio', 'session', 'today', '!']",1,0
+16,Today was the hate day for my organic. I feel so worst about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'organic', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+17,Today was the sad day for my performance. I feel so worst about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'performance', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+18,I positive my food diary session today!,"['i', 'positive', 'my', 'food', 'diary', 'session', 'today', '!']",0,0
+19,Today was the poor day for my aerobics. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+20,Today was the sad day for my high-protein. I feel so negative about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'high-protein', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+21,I fantastic my high-protein session today! It really made a difference in my pilates!,"['i', 'fantastic', 'my', 'high-protein', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'pilates', '!']",1,1
+22,Today was the horrible day for my meal prep. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'meal', 'prep', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+23,Today was the disappointing day for my fats. I feel so worst about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'fats', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+24,I good my nutrition labels session today! It really made a difference in my strength training!,"['i', 'good', 'my', 'nutrition', 'labels', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'strength', 'training', '!']",2,1
+25,I fantastic my meal plan session today!,"['i', 'fantastic', 'my', 'meal', 'plan', 'session', 'today', '!']",0,0
+26,I happy my calories session today!,"['i', 'happy', 'my', 'calories', 'session', 'today', '!']",0,1
+27,Today was the poor day for my meal prep. I feel so bad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'meal', 'prep', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+28,Today was the horrible day for my fitness goals. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'fitness', 'goals', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+29,I great my balanced diet session today! It really made a difference in my cycling!,"['i', 'great', 'my', 'balanced', 'diet', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cycling', '!']",1,1
+30,I excellent my muscle gain session today!,"['i', 'excellent', 'my', 'muscle', 'gain', 'session', 'today', '!']",1,0
+31,Today was the sad day for my meal prep. I feel so worst about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'meal', 'prep', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+32,Today was the horrible day for my carbohydrates. I feel so negative about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'carbohydrates', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+33,Today was the worst day for my cardiovascular. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'cardiovascular', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+34,Today was the poor day for my aerobics. I feel so sad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+35,Today was the disappointing day for my superfoods. I feel so hate about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'superfoods', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+36,Today was the sad day for my low-sodium. I feel so negative about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'low-sodium', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+37,Today was the hate day for my meal plan. I feel so disappointing about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'meal', 'plan', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+38,I positive my wellness session today!,"['i', 'positive', 'my', 'wellness', 'session', 'today', '!']",1,0
+39,Today was the worst day for my fitness. I feel so worst about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'fitness', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+40,Today was the sad day for my keto. I feel so worst about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'keto', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+41,I positive my gym session today!,"['i', 'positive', 'my', 'gym', 'session', 'today', '!']",1,0
+42,Today was the negative day for my weight loss. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'weight', 'loss', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+43,Today was the worst day for my powerlifting. I feel so horrible about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'powerlifting', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+44,Today was the bad day for my proteins. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'proteins', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+45,Today was the disappointing day for my healthy eating. I feel so worst about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'healthy', 'eating', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+46,Today was the negative day for my Mediterranean diet. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'mediterranean', 'diet', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+47,Today was the bad day for my portion control. I feel so disappointing about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'portion', 'control', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+48,Today was the sad day for my sports. I feel so bad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'sports', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+49,Today was the hate day for my performance. I feel so negative about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'performance', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+50,I love my fiber session today! It really made a difference in my burpees!,"['i', 'love', 'my', 'fiber', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'burpees', '!']",1,1
+51,Today was the bad day for my stamina. I feel so disappointing about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'stamina', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+52,I good my exercise session today! It really made a difference in my pilates!,"['i', 'good', 'my', 'exercise', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'pilates', '!']",2,0
+53,I amazing my health session today! It really made a difference in my sports!,"['i', 'amazing', 'my', 'health', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'sports', '!']",2,0
+54,Today was the negative day for my clean eating. I feel so negative about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'clean', 'eating', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+55,I amazing my squat session today!,"['i', 'amazing', 'my', 'squat', 'session', 'today', '!']",1,0
+56,Today was the worst day for my cardio. I feel so poor about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'cardio', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+57,Today was the negative day for my fiber. I feel so negative about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'fiber', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+58,Today was the bad day for my performance. I feel so horrible about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'performance', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+59,I happy my strength training session today! It really made a difference in my aerobics!,"['i', 'happy', 'my', 'strength', 'training', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'aerobics', '!']",3,0
+60,Today was the bad day for my motivation. I feel so poor about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'motivation', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+61,I amazing my gluten-free session today!,"['i', 'amazing', 'my', 'gluten-free', 'session', 'today', '!']",0,1
+62,Today was the disappointing day for my aerobics. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+63,Today was the disappointing day for my meal plan. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'meal', 'plan', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+64,I fantastic my exercise session today! It really made a difference in my weightlifting!,"['i', 'fantastic', 'my', 'exercise', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'weightlifting', '!']",2,0
+65,Today was the worst day for my food diary. I feel so hate about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'food', 'diary', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+66,I positive my carbohydrates session today!,"['i', 'positive', 'my', 'carbohydrates', 'session', 'today', '!']",0,1
+67,Today was the horrible day for my recovery. I feel so negative about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'recovery', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+68,I positive my training session today! It really made a difference in my muscle gain!,"['i', 'positive', 'my', 'training', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', 'gain', '!']",2,0
+69,Today was the hate day for my burpees. I feel so hate about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'burpees', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+70,I great my health session today!,"['i', 'great', 'my', 'health', 'session', 'today', '!']",1,0
+71,Today was the negative day for my detox. I feel so bad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'detox', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+72,I good my running session today!,"['i', 'good', 'my', 'running', 'session', 'today', '!']",1,0
+73,I good my wellness session today! It really made a difference in my resistance training!,"['i', 'good', 'my', 'wellness', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'resistance', 'training', '!']",2,0
+74,I love my pilates session today!,"['i', 'love', 'my', 'pilates', 'session', 'today', '!']",1,0
+75,Today was the horrible day for my powerlifting. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'powerlifting', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+76,Today was the hate day for my endurance. I feel so bad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'endurance', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+77,I positive my burpees session today! It really made a difference in my endurance!,"['i', 'positive', 'my', 'burpees', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'endurance', '!']",2,0
+78,Today was the bad day for my calorie surplus. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'calorie', 'surplus', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+79,Today was the disappointing day for my food pyramid. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'food', 'pyramid', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+80,I amazing my resistance training session today!,"['i', 'amazing', 'my', 'resistance', 'training', 'session', 'today', '!']",1,0
+81,I amazing my superfoods session today!,"['i', 'amazing', 'my', 'superfoods', 'session', 'today', '!']",0,1
+82,Today was the poor day for my whole foods. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'whole', 'foods', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+83,Today was the worst day for my portion control. I feel so worst about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'portion', 'control', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+84,I happy my carbohydrates session today! It really made a difference in my weight loss!,"['i', 'happy', 'my', 'carbohydrates', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'weight', 'loss', '!']",0,1
+85,Today was the negative day for my burpees. I feel so negative about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'burpees', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+86,Today was the poor day for my organic. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'organic', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+87,I great my training session today!,"['i', 'great', 'my', 'training', 'session', 'today', '!']",1,0
+88,Today was the disappointing day for my high-protein. I feel so bad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'high-protein', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+89,I excellent my deadlift session today! It really made a difference in my powerlifting!,"['i', 'excellent', 'my', 'deadlift', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'powerlifting', '!']",2,0
+90,Today was the hate day for my keto. I feel so bad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'keto', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+91,I great my portion control session today!,"['i', 'great', 'my', 'portion', 'control', 'session', 'today', '!']",0,0
+92,Today was the sad day for my yoga. I feel so poor about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'yoga', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+93,Today was the horrible day for my cycling. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'cycling', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+94,Today was the negative day for my fit. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'fit', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+95,I amazing my low-sodium session today!,"['i', 'amazing', 'my', 'low-sodium', 'session', 'today', '!']",0,1
+96,I fantastic my water intake session today!,"['i', 'fantastic', 'my', 'water', 'intake', 'session', 'today', '!']",0,0
+97,Today was the disappointing day for my fats. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'fats', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+98,I amazing my food pyramid session today!,"['i', 'amazing', 'my', 'food', 'pyramid', 'session', 'today', '!']",0,0
+99,I fantastic my motivation session today!,"['i', 'fantastic', 'my', 'motivation', 'session', 'today', '!']",1,0
+100,I excellent my fitness goals session today!,"['i', 'excellent', 'my', 'fitness', 'goals', 'session', 'today', '!']",1,0
+101,I excellent my bodyweight exercises session today! It really made a difference in my deadlift!,"['i', 'excellent', 'my', 'bodyweight', 'exercises', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'deadlift', '!']",1,0
+102,Today was the disappointing day for my processed foods. I feel so horrible about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'processed', 'foods', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+103,I excellent my cardiovascular session today!,"['i', 'excellent', 'my', 'cardiovascular', 'session', 'today', '!']",1,0
+104,I fantastic my burpees session today! It really made a difference in my performance!,"['i', 'fantastic', 'my', 'burpees', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",2,0
+105,Today was the bad day for my calorie deficit. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'calorie', 'deficit', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+106,I good my Mediterranean diet session today!,"['i', 'good', 'my', 'mediterranean', 'diet', 'session', 'today', '!']",0,1
+107,I love my macronutrients session today!,"['i', 'love', 'my', 'macronutrients', 'session', 'today', '!']",0,1
+108,I happy my sports session today! It really made a difference in my flexibility!,"['i', 'happy', 'my', 'sports', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'flexibility', '!']",2,0
+109,I excellent my stamina session today! It really made a difference in my squat!,"['i', 'excellent', 'my', 'stamina', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'squat', '!']",2,0
+110,Today was the worst day for my recovery. I feel so poor about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'recovery', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+111,Today was the worst day for my balanced diet. I feel so horrible about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'balanced', 'diet', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+112,I amazing my pilates session today!,"['i', 'amazing', 'my', 'pilates', 'session', 'today', '!']",1,0
+113,I happy my calisthenics session today!,"['i', 'happy', 'my', 'calisthenics', 'session', 'today', '!']",1,0
+114,Today was the negative day for my water intake. I feel so poor about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'water', 'intake', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+115,I great my processed foods session today!,"['i', 'great', 'my', 'processed', 'foods', 'session', 'today', '!']",0,0
+116,Today was the worst day for my food pyramid. I feel so disappointing about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'food', 'pyramid', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+117,I good my aerobics session today!,"['i', 'good', 'my', 'aerobics', 'session', 'today', '!']",1,0
+118,Today was the bad day for my sugar-free. I feel so disappointing about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'sugar-free', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+119,I excellent my fiber session today!,"['i', 'excellent', 'my', 'fiber', 'session', 'today', '!']",0,1
+120,I positive my gym session today!,"['i', 'positive', 'my', 'gym', 'session', 'today', '!']",1,0
+121,I positive my nutrition labels session today!,"['i', 'positive', 'my', 'nutrition', 'labels', 'session', 'today', '!']",0,1
+122,Today was the bad day for my sports. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'sports', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+123,Today was the bad day for my food diary. I feel so poor about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'food', 'diary', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+124,Today was the hate day for my calories. I feel so negative about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'calories', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+125,Today was the sad day for my micronutrients. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'micronutrients', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+126,Today was the disappointing day for my strength training. I feel so worst about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'strength', 'training', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",2,0
+127,Today was the negative day for my weightlifting. I feel so worst about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'weightlifting', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+128,Today was the sad day for my fitness. I feel so bad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'fitness', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+129,Today was the sad day for my deadlift. I feel so bad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'deadlift', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+130,I good my squat session today! It really made a difference in my hiit!,"['i', 'good', 'my', 'squat', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'hiit', '!']",2,0
+131,I great my calories session today!,"['i', 'great', 'my', 'calories', 'session', 'today', '!']",0,1
+132,I love my cardiovascular session today! It really made a difference in my workout!,"['i', 'love', 'my', 'cardiovascular', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'workout', '!']",2,0
+133,Today was the horrible day for my portion control. I feel so hate about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'portion', 'control', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+134,I positive my fitness journey session today!,"['i', 'positive', 'my', 'fitness', 'journey', 'session', 'today', '!']",1,0
+135,I excellent my keto session today!,"['i', 'excellent', 'my', 'keto', 'session', 'today', '!']",0,1
+136,I great my motivation session today! It really made a difference in my sports!,"['i', 'great', 'my', 'motivation', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'sports', '!']",2,0
+137,Today was the horrible day for my fitness goals. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'fitness', 'goals', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+138,Today was the disappointing day for my high-protein. I feel so disappointing about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'high-protein', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+139,I amazing my calories session today!,"['i', 'amazing', 'my', 'calories', 'session', 'today', '!']",0,1
+140,I love my nutrition labels session today!,"['i', 'love', 'my', 'nutrition', 'labels', 'session', 'today', '!']",0,1
+141,Today was the negative day for my push-up. I feel so sad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'push-up', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+142,Today was the horrible day for my balanced diet. I feel so hate about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'balanced', 'diet', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+143,I fantastic my plank session today!,"['i', 'fantastic', 'my', 'plank', 'session', 'today', '!']",1,0
+144,I great my push-up session today!,"['i', 'great', 'my', 'push-up', 'session', 'today', '!']",1,0
+145,Today was the poor day for my endurance. I feel so bad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'endurance', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+146,Today was the sad day for my hydration. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'hydration', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+147,I happy my hydration session today!,"['i', 'happy', 'my', 'hydration', 'session', 'today', '!']",0,1
+148,Today was the disappointing day for my vegetarian. I feel so hate about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'vegetarian', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+149,I great my core session today!,"['i', 'great', 'my', 'core', 'session', 'today', '!']",1,0
+150,Today was the hate day for my detox. I feel so bad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'detox', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+151,Today was the bad day for my aerobics. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+152,I happy my nutrition session today!,"['i', 'happy', 'my', 'nutrition', 'session', 'today', '!']",0,1
+153,Today was the disappointing day for my recovery. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'recovery', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+154,Today was the worst day for my stamina. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'stamina', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+155,I happy my calories session today!,"['i', 'happy', 'my', 'calories', 'session', 'today', '!']",0,1
+156,I happy my cardio session today!,"['i', 'happy', 'my', 'cardio', 'session', 'today', '!']",1,0
+157,I love my fit session today! It really made a difference in my cardiovascular!,"['i', 'love', 'my', 'fit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cardiovascular', '!']",2,0
+158,Today was the horrible day for my whole foods. I feel so horrible about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'whole', 'foods', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+159,Today was the negative day for my sugar-free. I feel so hate about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'sugar-free', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+160,I great my sports session today!,"['i', 'great', 'my', 'sports', 'session', 'today', '!']",1,0
+161,Today was the sad day for my healthy snacks. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'healthy', 'snacks', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+162,Today was the sad day for my performance. I feel so negative about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'performance', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+163,I amazing my detox session today! It really made a difference in my cardio!,"['i', 'amazing', 'my', 'detox', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cardio', '!']",1,1
+164,I happy my calories session today!,"['i', 'happy', 'my', 'calories', 'session', 'today', '!']",0,1
+165,I love my keto session today! It really made a difference in my plank!,"['i', 'love', 'my', 'keto', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'plank', '!']",1,1
+166,Today was the negative day for my gym. I feel so sad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+167,I good my low-sodium session today! It really made a difference in my cycling!,"['i', 'good', 'my', 'low-sodium', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cycling', '!']",1,1
+168,I great my keto session today! It really made a difference in my fitness goals!,"['i', 'great', 'my', 'keto', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', 'goals', '!']",1,1
+169,Today was the disappointing day for my personal trainer. I feel so disappointing about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+170,Today was the horrible day for my fitness. I feel so disappointing about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'fitness', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+171,I excellent my healthy snacks session today!,"['i', 'excellent', 'my', 'healthy', 'snacks', 'session', 'today', '!']",0,0
+172,Today was the hate day for my clean eating. I feel so sad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'clean', 'eating', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+173,I positive my powerlifting session today! It really made a difference in my fitness journey!,"['i', 'positive', 'my', 'powerlifting', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', 'journey', '!']",2,0
+174,I positive my superfoods session today!,"['i', 'positive', 'my', 'superfoods', 'session', 'today', '!']",0,1
+175,Today was the sad day for my fitness goals. I feel so hate about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'fitness', 'goals', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+176,I good my weight loss session today!,"['i', 'good', 'my', 'weight', 'loss', 'session', 'today', '!']",0,0
+177,Today was the negative day for my meal plan. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'meal', 'plan', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+178,Today was the negative day for my personal trainer. I feel so bad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+179,Today was the hate day for my food pyramid. I feel so hate about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'food', 'pyramid', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+180,Today was the disappointing day for my low-carb. I feel so worst about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'low-carb', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+181,Today was the bad day for my fiber. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'fiber', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+182,I happy my cardio session today! It really made a difference in my burpees!,"['i', 'happy', 'my', 'cardio', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'burpees', '!']",2,0
+183,Today was the disappointing day for my healthy lifestyle. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'healthy', 'lifestyle', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+184,I fantastic my portion control session today! It really made a difference in my strength!,"['i', 'fantastic', 'my', 'portion', 'control', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'strength', '!']",1,0
+185,Today was the horrible day for my food pyramid. I feel so hate about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'food', 'pyramid', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+186,I excellent my cardiovascular session today!,"['i', 'excellent', 'my', 'cardiovascular', 'session', 'today', '!']",1,0
+187,I fantastic my low-carb session today! It really made a difference in my bodyweight exercises!,"['i', 'fantastic', 'my', 'low-carb', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodyweight', 'exercises', '!']",0,1
+188,Today was the worst day for my aerobics. I feel so poor about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+189,Today was the bad day for my superfoods. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'superfoods', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+190,I good my push-up session today! It really made a difference in my performance!,"['i', 'good', 'my', 'push-up', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",2,0
+191,Today was the negative day for my running. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'running', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+192,Today was the horrible day for my minerals. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+193,I happy my vitamins session today! It really made a difference in my calisthenics!,"['i', 'happy', 'my', 'vitamins', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'calisthenics', '!']",1,1
+194,I amazing my stretching session today! It really made a difference in my calisthenics!,"['i', 'amazing', 'my', 'stretching', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'calisthenics', '!']",2,0
+195,Today was the sad day for my endurance. I feel so hate about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'endurance', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+196,I amazing my healthy snacks session today! It really made a difference in my health!,"['i', 'amazing', 'my', 'healthy', 'snacks', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'health', '!']",1,0
+197,Today was the horrible day for my sugar-free. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'sugar-free', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+198,Today was the disappointing day for my healthy eating. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'healthy', 'eating', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+199,I good my burpees session today!,"['i', 'good', 'my', 'burpees', 'session', 'today', '!']",1,0
+200,Today was the bad day for my strength. I feel so hate about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'strength', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+201,Today was the disappointing day for my resistance training. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'resistance', 'training', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+202,I fantastic my water intake session today! It really made a difference in my performance!,"['i', 'fantastic', 'my', 'water', 'intake', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",1,0
+203,Today was the sad day for my minerals. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+204,I excellent my cardio session today!,"['i', 'excellent', 'my', 'cardio', 'session', 'today', '!']",1,0
+205,I amazing my minerals session today! It really made a difference in my fit!,"['i', 'amazing', 'my', 'minerals', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fit', '!']",1,1
+206,Today was the hate day for my calisthenics. I feel so disappointing about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'calisthenics', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+207,I great my muscle session today! It really made a difference in my stamina!,"['i', 'great', 'my', 'muscle', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'stamina', '!']",2,0
+208,Today was the bad day for my plank. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'plank', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+209,Today was the bad day for my active lifestyle. I feel so poor about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'active', 'lifestyle', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+210,I excellent my nutrient-dense session today!,"['i', 'excellent', 'my', 'nutrient-dense', 'session', 'today', '!']",0,1
+211,I amazing my resistance training session today! It really made a difference in my muscle gain!,"['i', 'amazing', 'my', 'resistance', 'training', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', 'gain', '!']",2,0
+212,Today was the negative day for my endurance. I feel so bad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'endurance', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+213,I love my gmo-free session today!,"['i', 'love', 'my', 'gmo-free', 'session', 'today', '!']",0,1
+214,I fantastic my stretching session today!,"['i', 'fantastic', 'my', 'stretching', 'session', 'today', '!']",1,0
+215,Today was the negative day for my calorie surplus. I feel so poor about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'calorie', 'surplus', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+216,Today was the poor day for my fats. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'fats', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+217,Today was the hate day for my processed foods. I feel so poor about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'processed', 'foods', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+218,Today was the horrible day for my stamina. I feel so disappointing about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'stamina', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+219,I happy my active lifestyle session today!,"['i', 'happy', 'my', 'active', 'lifestyle', 'session', 'today', '!']",0,0
+220,I excellent my meal plan session today!,"['i', 'excellent', 'my', 'meal', 'plan', 'session', 'today', '!']",0,0
+221,Today was the horrible day for my meal prep. I feel so disappointing about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'meal', 'prep', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+222,I amazing my push-up session today! It really made a difference in my yoga!,"['i', 'amazing', 'my', 'push-up', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'yoga', '!']",2,0
+223,I excellent my yoga session today!,"['i', 'excellent', 'my', 'yoga', 'session', 'today', '!']",1,0
+224,I excellent my hydration session today! It really made a difference in my powerlifting!,"['i', 'excellent', 'my', 'hydration', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'powerlifting', '!']",1,1
+225,Today was the worst day for my sugar-free. I feel so worst about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'sugar-free', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+226,Today was the sad day for my nutrient-dense. I feel so disappointing about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'nutrient-dense', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+227,Today was the disappointing day for my plank. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'plank', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+228,Today was the bad day for my deadlift. I feel so horrible about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'deadlift', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+229,Today was the hate day for my low-sodium. I feel so hate about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'low-sodium', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+230,Today was the negative day for my sports. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'sports', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+231,Today was the worst day for my recovery. I feel so poor about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'recovery', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+232,I fantastic my health session today!,"['i', 'fantastic', 'my', 'health', 'session', 'today', '!']",1,0
+233,I good my flexibility session today!,"['i', 'good', 'my', 'flexibility', 'session', 'today', '!']",1,0
+234,I positive my muscle gain session today!,"['i', 'positive', 'my', 'muscle', 'gain', 'session', 'today', '!']",1,0
+235,Today was the negative day for my active lifestyle. I feel so bad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'active', 'lifestyle', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+236,I great my hiit session today! It really made a difference in my active lifestyle!,"['i', 'great', 'my', 'hiit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'active', 'lifestyle', '!']",1,0
+237,I fantastic my carbohydrates session today!,"['i', 'fantastic', 'my', 'carbohydrates', 'session', 'today', '!']",0,1
+238,I good my personal trainer session today!,"['i', 'good', 'my', 'personal', 'trainer', 'session', 'today', '!']",0,0
+239,I love my resistance training session today! It really made a difference in my performance!,"['i', 'love', 'my', 'resistance', 'training', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",2,0
+240,I good my squat session today! It really made a difference in my fitness!,"['i', 'good', 'my', 'squat', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', '!']",2,0
+241,Today was the disappointing day for my balanced diet. I feel so worst about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'balanced', 'diet', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+242,Today was the negative day for my carbohydrates. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'carbohydrates', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+243,Today was the poor day for my muscle gain. I feel so bad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'muscle', 'gain', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+244,I positive my motivation session today!,"['i', 'positive', 'my', 'motivation', 'session', 'today', '!']",1,0
+245,I amazing my water intake session today! It really made a difference in my plank!,"['i', 'amazing', 'my', 'water', 'intake', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'plank', '!']",1,0
+246,I great my cycling session today! It really made a difference in my workout!,"['i', 'great', 'my', 'cycling', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'workout', '!']",2,0
+247,Today was the hate day for my water intake. I feel so hate about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'water', 'intake', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+248,I fantastic my vitamins session today! It really made a difference in my push-up!,"['i', 'fantastic', 'my', 'vitamins', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'push-up', '!']",1,1
+249,I positive my nutrition session today! It really made a difference in my bodyweight exercises!,"['i', 'positive', 'my', 'nutrition', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodyweight', 'exercises', '!']",0,1
+250,I happy my diet session today!,"['i', 'happy', 'my', 'diet', 'session', 'today', '!']",0,1
+251,I happy my fitness journey session today!,"['i', 'happy', 'my', 'fitness', 'journey', 'session', 'today', '!']",1,0
+252,I happy my calorie deficit session today!,"['i', 'happy', 'my', 'calorie', 'deficit', 'session', 'today', '!']",0,0
+253,Today was the sad day for my workout. I feel so bad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'workout', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+254,I good my weight loss session today!,"['i', 'good', 'my', 'weight', 'loss', 'session', 'today', '!']",0,0
+255,Today was the sad day for my portion control. I feel so hate about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'portion', 'control', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+256,Today was the worst day for my vitamins. I feel so poor about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'vitamins', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+257,I great my strength training session today! It really made a difference in my gym!,"['i', 'great', 'my', 'strength', 'training', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'gym', '!']",3,0
+258,Today was the horrible day for my resistance training. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'resistance', 'training', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+259,Today was the sad day for my strength training. I feel so poor about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'strength', 'training', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",2,0
+260,Today was the poor day for my resistance training. I feel so negative about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'resistance', 'training', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+261,I happy my cardiovascular session today! It really made a difference in my wellness!,"['i', 'happy', 'my', 'cardiovascular', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'wellness', '!']",2,0
+262,I excellent my micronutrients session today! It really made a difference in my workout!,"['i', 'excellent', 'my', 'micronutrients', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'workout', '!']",1,1
+263,I great my nutrient-dense session today!,"['i', 'great', 'my', 'nutrient-dense', 'session', 'today', '!']",0,1
+264,I good my carbohydrates session today! It really made a difference in my muscle!,"['i', 'good', 'my', 'carbohydrates', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', '!']",1,1
+265,I excellent my intermittent fasting session today! It really made a difference in my fitness goals!,"['i', 'excellent', 'my', 'intermittent', 'fasting', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', 'goals', '!']",1,0
+266,Today was the horrible day for my fitness journey. I feel so poor about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'fitness', 'journey', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+267,Today was the horrible day for my detox. I feel so bad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'detox', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+268,I happy my muscle gain session today! It really made a difference in my fit!,"['i', 'happy', 'my', 'muscle', 'gain', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fit', '!']",2,0
+269,Today was the poor day for my minerals. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+270,I great my stamina session today! It really made a difference in my personal trainer!,"['i', 'great', 'my', 'stamina', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'personal', 'trainer', '!']",1,0
+271,Today was the hate day for my macronutrients. I feel so bad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'macronutrients', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+272,I happy my sugar-free session today! It really made a difference in my sports!,"['i', 'happy', 'my', 'sugar-free', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'sports', '!']",1,1
+273,I love my low-carb session today! It really made a difference in my wellness!,"['i', 'love', 'my', 'low-carb', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'wellness', '!']",1,1
+274,I great my recovery session today! It really made a difference in my performance!,"['i', 'great', 'my', 'recovery', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",2,0
+275,Today was the poor day for my vegan. I feel so worst about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'vegan', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+276,I excellent my fats session today! It really made a difference in my cardiovascular!,"['i', 'excellent', 'my', 'fats', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cardiovascular', '!']",1,1
+277,I great my low-fat session today!,"['i', 'great', 'my', 'low-fat', 'session', 'today', '!']",0,1
+278,Today was the hate day for my weight loss. I feel so horrible about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'weight', 'loss', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+279,Today was the horrible day for my yoga. I feel so negative about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'yoga', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+280,I excellent my calisthenics session today!,"['i', 'excellent', 'my', 'calisthenics', 'session', 'today', '!']",1,0
+281,I fantastic my running session today! It really made a difference in my stamina!,"['i', 'fantastic', 'my', 'running', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'stamina', '!']",2,0
+282,I positive my sugar-free session today!,"['i', 'positive', 'my', 'sugar-free', 'session', 'today', '!']",0,1
+283,Today was the horrible day for my balanced diet. I feel so negative about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'balanced', 'diet', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+284,I great my burpees session today!,"['i', 'great', 'my', 'burpees', 'session', 'today', '!']",1,0
+285,Today was the negative day for my resistance training. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'resistance', 'training', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+286,Today was the worst day for my push-up. I feel so negative about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'push-up', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+287,Today was the bad day for my deadlift. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'deadlift', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+288,Today was the hate day for my processed foods. I feel so hate about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'processed', 'foods', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+289,I fantastic my portion control session today!,"['i', 'fantastic', 'my', 'portion', 'control', 'session', 'today', '!']",0,0
+290,Today was the worst day for my plank. I feel so hate about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'plank', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+291,I excellent my muscle session today!,"['i', 'excellent', 'my', 'muscle', 'session', 'today', '!']",1,0
+292,Today was the sad day for my detox. I feel so negative about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'detox', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+293,Today was the negative day for my detox. I feel so negative about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'detox', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+294,I happy my cardiovascular session today!,"['i', 'happy', 'my', 'cardiovascular', 'session', 'today', '!']",1,0
+295,I great my cycling session today!,"['i', 'great', 'my', 'cycling', 'session', 'today', '!']",1,0
+296,I fantastic my active lifestyle session today! It really made a difference in my fitness journey!,"['i', 'fantastic', 'my', 'active', 'lifestyle', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', 'journey', '!']",1,0
+297,Today was the horrible day for my vitamins. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'vitamins', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+298,Today was the worst day for my hydration. I feel so worst about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'hydration', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+299,Today was the bad day for my cardio. I feel so bad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'cardio', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+300,I amazing my pilates session today!,"['i', 'amazing', 'my', 'pilates', 'session', 'today', '!']",1,0
+301,Today was the horrible day for my bodyweight exercises. I feel so negative about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'bodyweight', 'exercises', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+302,Today was the poor day for my meal prep. I feel so hate about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'meal', 'prep', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+303,I excellent my low-carb session today! It really made a difference in my strength training!,"['i', 'excellent', 'my', 'low-carb', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'strength', 'training', '!']",2,1
+304,I love my endurance session today! It really made a difference in my burpees!,"['i', 'love', 'my', 'endurance', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'burpees', '!']",2,0
+305,I fantastic my strength training session today!,"['i', 'fantastic', 'my', 'strength', 'training', 'session', 'today', '!']",2,0
+306,Today was the bad day for my hiit. I feel so bad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'hiit', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+307,I love my carbohydrates session today! It really made a difference in my performance!,"['i', 'love', 'my', 'carbohydrates', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",1,1
+308,I great my flexibility session today! It really made a difference in my calisthenics!,"['i', 'great', 'my', 'flexibility', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'calisthenics', '!']",2,0
+309,I amazing my healthy lifestyle session today! It really made a difference in my training!,"['i', 'amazing', 'my', 'healthy', 'lifestyle', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'training', '!']",1,0
+310,I positive my fiber session today!,"['i', 'positive', 'my', 'fiber', 'session', 'today', '!']",0,1
+311,Today was the disappointing day for my detox. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'detox', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+312,I excellent my superfoods session today!,"['i', 'excellent', 'my', 'superfoods', 'session', 'today', '!']",0,1
+313,I happy my organic session today!,"['i', 'happy', 'my', 'organic', 'session', 'today', '!']",0,1
+314,I positive my calorie deficit session today! It really made a difference in my bodyweight exercises!,"['i', 'positive', 'my', 'calorie', 'deficit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodyweight', 'exercises', '!']",0,0
+315,Today was the disappointing day for my antioxidants. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'antioxidants', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+316,I good my personal trainer session today!,"['i', 'good', 'my', 'personal', 'trainer', 'session', 'today', '!']",0,0
+317,Today was the bad day for my intermittent fasting. I feel so hate about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'intermittent', 'fasting', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+318,I excellent my sports session today!,"['i', 'excellent', 'my', 'sports', 'session', 'today', '!']",1,0
+319,I great my portion control session today!,"['i', 'great', 'my', 'portion', 'control', 'session', 'today', '!']",0,0
+320,I great my dietary restrictions session today!,"['i', 'great', 'my', 'dietary', 'restrictions', 'session', 'today', '!']",0,0
+321,Today was the negative day for my yoga. I feel so negative about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'yoga', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+322,I excellent my meal prep session today!,"['i', 'excellent', 'my', 'meal', 'prep', 'session', 'today', '!']",0,0
+323,I positive my strength training session today! It really made a difference in my fitness journey!,"['i', 'positive', 'my', 'strength', 'training', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', 'journey', '!']",3,0
+324,I good my portion control session today!,"['i', 'good', 'my', 'portion', 'control', 'session', 'today', '!']",0,0
+325,Today was the poor day for my gluten-free. I feel so worst about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'gluten-free', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+326,Today was the poor day for my cycling. I feel so disappointing about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'cycling', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+327,Today was the worst day for my burpees. I feel so sad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'burpees', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+328,Today was the worst day for my running. I feel so hate about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'running', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+329,Today was the negative day for my healthy snacks. I feel so worst about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'healthy', 'snacks', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+330,I love my dietary restrictions session today! It really made a difference in my healthy lifestyle!,"['i', 'love', 'my', 'dietary', 'restrictions', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'healthy', 'lifestyle', '!']",0,0
+331,Today was the sad day for my superfoods. I feel so disappointing about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'superfoods', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+332,I amazing my vegetarian session today!,"['i', 'amazing', 'my', 'vegetarian', 'session', 'today', '!']",0,1
+333,I happy my cardiovascular session today! It really made a difference in my muscle gain!,"['i', 'happy', 'my', 'cardiovascular', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', 'gain', '!']",2,0
+334,I happy my high-protein session today!,"['i', 'happy', 'my', 'high-protein', 'session', 'today', '!']",0,1
+335,Today was the bad day for my training. I feel so disappointing about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'training', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+336,I fantastic my detox session today!,"['i', 'fantastic', 'my', 'detox', 'session', 'today', '!']",0,1
+337,I positive my cycling session today!,"['i', 'positive', 'my', 'cycling', 'session', 'today', '!']",1,0
+338,Today was the horrible day for my push-up. I feel so hate about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'push-up', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+339,I great my diet session today!,"['i', 'great', 'my', 'diet', 'session', 'today', '!']",0,1
+340,Today was the negative day for my recovery. I feel so hate about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'recovery', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+341,Today was the hate day for my cardiovascular. I feel so bad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'cardiovascular', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+342,Today was the worst day for my high-protein. I feel so disappointing about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'high-protein', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+343,Today was the disappointing day for my calorie deficit. I feel so bad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'calorie', 'deficit', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+344,I love my clean eating session today!,"['i', 'love', 'my', 'clean', 'eating', 'session', 'today', '!']",0,0
+345,Today was the sad day for my running. I feel so disappointing about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'running', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+346,Today was the worst day for my resistance training. I feel so disappointing about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'resistance', 'training', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+347,Today was the disappointing day for my aerobics. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+348,I love my motivation session today! It really made a difference in my wellness!,"['i', 'love', 'my', 'motivation', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'wellness', '!']",2,0
+349,I love my gluten-free session today! It really made a difference in my powerlifting!,"['i', 'love', 'my', 'gluten-free', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'powerlifting', '!']",1,1
+350,I excellent my calisthenics session today!,"['i', 'excellent', 'my', 'calisthenics', 'session', 'today', '!']",1,0
+351,Today was the negative day for my workout. I feel so worst about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'workout', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+352,I great my whole foods session today!,"['i', 'great', 'my', 'whole', 'foods', 'session', 'today', '!']",0,0
+353,Today was the horrible day for my balanced diet. I feel so horrible about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'balanced', 'diet', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+354,I good my paleo session today!,"['i', 'good', 'my', 'paleo', 'session', 'today', '!']",0,1
+355,Today was the bad day for my detox. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'detox', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+356,Today was the hate day for my bodybuilding. I feel so horrible about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'bodybuilding', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+357,I fantastic my personal trainer session today! It really made a difference in my cardio!,"['i', 'fantastic', 'my', 'personal', 'trainer', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cardio', '!']",1,0
+358,Today was the worst day for my training. I feel so worst about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'training', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+359,Today was the poor day for my health. I feel so sad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'health', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+360,I great my health session today!,"['i', 'great', 'my', 'health', 'session', 'today', '!']",1,0
+361,I positive my weight loss session today!,"['i', 'positive', 'my', 'weight', 'loss', 'session', 'today', '!']",0,0
+362,I amazing my food pyramid session today! It really made a difference in my plank!,"['i', 'amazing', 'my', 'food', 'pyramid', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'plank', '!']",1,0
+363,Today was the negative day for my fitness. I feel so negative about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'fitness', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+364,I excellent my nutrition session today! It really made a difference in my health!,"['i', 'excellent', 'my', 'nutrition', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'health', '!']",1,1
+365,Today was the bad day for my muscle. I feel so poor about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'muscle', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+366,I excellent my diet session today! It really made a difference in my stamina!,"['i', 'excellent', 'my', 'diet', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'stamina', '!']",1,1
+367,Today was the sad day for my high-protein. I feel so poor about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'high-protein', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+368,Today was the sad day for my running. I feel so negative about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'running', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+369,I amazing my wellness session today! It really made a difference in my cardiovascular!,"['i', 'amazing', 'my', 'wellness', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cardiovascular', '!']",2,0
+370,Today was the poor day for my resistance training. I feel so worst about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'resistance', 'training', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+371,Today was the hate day for my keto. I feel so disappointing about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'keto', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+372,Today was the bad day for my yoga. I feel so hate about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'yoga', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+373,Today was the poor day for my hydration. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'hydration', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+374,Today was the horrible day for my sports. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'sports', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+375,Today was the worst day for my proteins. I feel so sad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'proteins', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+376,Today was the hate day for my active lifestyle. I feel so horrible about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'active', 'lifestyle', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+377,Today was the bad day for my yoga. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'yoga', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+378,I good my hiit session today! It really made a difference in my sports!,"['i', 'good', 'my', 'hiit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'sports', '!']",2,0
+379,Today was the poor day for my portion sizes. I feel so worst about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'portion', 'sizes', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+380,I happy my weight loss session today! It really made a difference in my weightlifting!,"['i', 'happy', 'my', 'weight', 'loss', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'weightlifting', '!']",1,0
+381,Today was the horrible day for my minerals. I feel so disappointing about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+382,Today was the disappointing day for my aerobics. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+383,I love my nutrition session today! It really made a difference in my performance!,"['i', 'love', 'my', 'nutrition', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",1,1
+384,Today was the negative day for my active lifestyle. I feel so poor about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'active', 'lifestyle', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+385,Today was the sad day for my balanced diet. I feel so hate about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'balanced', 'diet', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+386,I love my burpees session today! It really made a difference in my bodyweight exercises!,"['i', 'love', 'my', 'burpees', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodyweight', 'exercises', '!']",1,0
+387,I excellent my hiit session today! It really made a difference in my core!,"['i', 'excellent', 'my', 'hiit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'core', '!']",2,0
+388,Today was the negative day for my sports. I feel so hate about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'sports', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+389,I excellent my minerals session today! It really made a difference in my squat!,"['i', 'excellent', 'my', 'minerals', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'squat', '!']",1,1
+390,Today was the hate day for my sugar-free. I feel so sad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'sugar-free', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+391,I excellent my intermittent fasting session today! It really made a difference in my performance!,"['i', 'excellent', 'my', 'intermittent', 'fasting', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",1,0
+392,Today was the poor day for my weight loss. I feel so bad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'weight', 'loss', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+393,Today was the horrible day for my stamina. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'stamina', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+394,I fantastic my flexibility session today!,"['i', 'fantastic', 'my', 'flexibility', 'session', 'today', '!']",1,0
+395,Today was the negative day for my gym. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+396,I excellent my nutrient-dense session today! It really made a difference in my cycling!,"['i', 'excellent', 'my', 'nutrient-dense', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cycling', '!']",1,1
+397,Today was the negative day for my meal plan. I feel so bad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'meal', 'plan', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+398,Today was the sad day for my micronutrients. I feel so hate about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'micronutrients', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+399,I happy my fitness session today! It really made a difference in my recovery!,"['i', 'happy', 'my', 'fitness', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'recovery', '!']",2,0
+400,I great my yoga session today! It really made a difference in my muscle gain!,"['i', 'great', 'my', 'yoga', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', 'gain', '!']",2,0
+401,I amazing my portion sizes session today! It really made a difference in my performance!,"['i', 'amazing', 'my', 'portion', 'sizes', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",1,0
+402,I good my bodybuilding session today! It really made a difference in my core!,"['i', 'good', 'my', 'bodybuilding', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'core', '!']",2,0
+403,I love my low-fat session today! It really made a difference in my core!,"['i', 'love', 'my', 'low-fat', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'core', '!']",1,1
+404,I positive my gym session today! It really made a difference in my personal trainer!,"['i', 'positive', 'my', 'gym', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'personal', 'trainer', '!']",1,0
+405,Today was the horrible day for my bodyweight exercises. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'bodyweight', 'exercises', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+406,Today was the hate day for my low-carb. I feel so poor about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'low-carb', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+407,Today was the hate day for my hydration. I feel so negative about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'hydration', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+408,I positive my high-protein session today!,"['i', 'positive', 'my', 'high-protein', 'session', 'today', '!']",0,1
+409,I great my squat session today! It really made a difference in my core!,"['i', 'great', 'my', 'squat', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'core', '!']",2,0
+410,Today was the disappointing day for my healthy lifestyle. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'healthy', 'lifestyle', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+411,Today was the bad day for my calories. I feel so worst about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'calories', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+412,I amazing my plank session today! It really made a difference in my running!,"['i', 'amazing', 'my', 'plank', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'running', '!']",2,0
+413,Today was the worst day for my calorie surplus. I feel so horrible about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'calorie', 'surplus', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+414,I good my gmo-free session today! It really made a difference in my training!,"['i', 'good', 'my', 'gmo-free', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'training', '!']",1,1
+415,Today was the sad day for my whole foods. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'whole', 'foods', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+416,Today was the negative day for my resistance training. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'resistance', 'training', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+417,Today was the bad day for my gmo-free. I feel so worst about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'gmo-free', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+418,I good my low-carb session today! It really made a difference in my performance!,"['i', 'good', 'my', 'low-carb', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",1,1
+419,I amazing my sports session today!,"['i', 'amazing', 'my', 'sports', 'session', 'today', '!']",1,0
+420,I love my fitness session today! It really made a difference in my resistance training!,"['i', 'love', 'my', 'fitness', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'resistance', 'training', '!']",2,0
+421,I fantastic my gym session today! It really made a difference in my endurance!,"['i', 'fantastic', 'my', 'gym', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'endurance', '!']",2,0
+422,Today was the negative day for my healthy lifestyle. I feel so bad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'healthy', 'lifestyle', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+423,I amazing my proteins session today!,"['i', 'amazing', 'my', 'proteins', 'session', 'today', '!']",0,1
+424,Today was the hate day for my diet. I feel so horrible about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'diet', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+425,I love my fit session today! It really made a difference in my bodyweight exercises!,"['i', 'love', 'my', 'fit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodyweight', 'exercises', '!']",1,0
+426,Today was the horrible day for my personal trainer. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+427,I happy my vegan session today! It really made a difference in my weightlifting!,"['i', 'happy', 'my', 'vegan', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'weightlifting', '!']",1,1
+428,I great my calorie surplus session today!,"['i', 'great', 'my', 'calorie', 'surplus', 'session', 'today', '!']",0,0
+429,Today was the bad day for my muscle. I feel so disappointing about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'muscle', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+430,I amazing my plank session today!,"['i', 'amazing', 'my', 'plank', 'session', 'today', '!']",1,0
+431,I amazing my stamina session today! It really made a difference in my bodybuilding!,"['i', 'amazing', 'my', 'stamina', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodybuilding', '!']",2,0
+432,I fantastic my exercise session today!,"['i', 'fantastic', 'my', 'exercise', 'session', 'today', '!']",1,0
+433,I fantastic my training session today! It really made a difference in my weightlifting!,"['i', 'fantastic', 'my', 'training', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'weightlifting', '!']",2,0
+434,I good my processed foods session today!,"['i', 'good', 'my', 'processed', 'foods', 'session', 'today', '!']",0,0
+435,I amazing my hiit session today!,"['i', 'amazing', 'my', 'hiit', 'session', 'today', '!']",1,0
+436,Today was the hate day for my endurance. I feel so sad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'endurance', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+437,I happy my sports session today! It really made a difference in my sports!,"['i', 'happy', 'my', 'sports', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'sports', '!']",2,0
+438,Today was the hate day for my fitness goals. I feel so horrible about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'fitness', 'goals', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+439,I amazing my minerals session today! It really made a difference in my sports!,"['i', 'amazing', 'my', 'minerals', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'sports', '!']",1,1
+440,Today was the negative day for my active lifestyle. I feel so worst about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'active', 'lifestyle', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+441,I happy my vegetarian session today!,"['i', 'happy', 'my', 'vegetarian', 'session', 'today', '!']",0,1
+442,I positive my active lifestyle session today! It really made a difference in my bodyweight exercises!,"['i', 'positive', 'my', 'active', 'lifestyle', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodyweight', 'exercises', '!']",0,0
+443,I positive my vegan session today!,"['i', 'positive', 'my', 'vegan', 'session', 'today', '!']",0,1
+444,I amazing my carbohydrates session today!,"['i', 'amazing', 'my', 'carbohydrates', 'session', 'today', '!']",0,1
+445,Today was the hate day for my clean eating. I feel so hate about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'clean', 'eating', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+446,I amazing my portion control session today!,"['i', 'amazing', 'my', 'portion', 'control', 'session', 'today', '!']",0,0
+447,I love my calorie deficit session today!,"['i', 'love', 'my', 'calorie', 'deficit', 'session', 'today', '!']",0,0
+448,Today was the disappointing day for my low-sodium. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'low-sodium', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+449,I great my fat loss session today!,"['i', 'great', 'my', 'fat', 'loss', 'session', 'today', '!']",0,0
+450,I fantastic my cycling session today!,"['i', 'fantastic', 'my', 'cycling', 'session', 'today', '!']",1,0
+451,Today was the horrible day for my training. I feel so horrible about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'training', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+452,I excellent my gmo-free session today!,"['i', 'excellent', 'my', 'gmo-free', 'session', 'today', '!']",0,1
+453,I fantastic my vegan session today!,"['i', 'fantastic', 'my', 'vegan', 'session', 'today', '!']",0,1
+454,I love my running session today!,"['i', 'love', 'my', 'running', 'session', 'today', '!']",1,0
+455,Today was the horrible day for my weightlifting. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'weightlifting', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+456,Today was the disappointing day for my endurance. I feel so disappointing about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'endurance', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+457,I fantastic my vegan session today!,"['i', 'fantastic', 'my', 'vegan', 'session', 'today', '!']",0,1
+458,Today was the hate day for my nutrient-dense. I feel so negative about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'nutrient-dense', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+459,Today was the negative day for my calorie deficit. I feel so poor about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'calorie', 'deficit', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+460,I amazing my squat session today!,"['i', 'amazing', 'my', 'squat', 'session', 'today', '!']",1,0
+461,I positive my meal plan session today! It really made a difference in my wellness!,"['i', 'positive', 'my', 'meal', 'plan', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'wellness', '!']",1,0
+462,I positive my resistance training session today!,"['i', 'positive', 'my', 'resistance', 'training', 'session', 'today', '!']",1,0
+463,I excellent my calisthenics session today!,"['i', 'excellent', 'my', 'calisthenics', 'session', 'today', '!']",1,0
+464,Today was the poor day for my antioxidants. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'antioxidants', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+465,I excellent my core session today! It really made a difference in my calisthenics!,"['i', 'excellent', 'my', 'core', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'calisthenics', '!']",2,0
+466,I good my yoga session today! It really made a difference in my recovery!,"['i', 'good', 'my', 'yoga', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'recovery', '!']",2,0
+467,I great my wellness session today! It really made a difference in my fat loss!,"['i', 'great', 'my', 'wellness', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fat', 'loss', '!']",1,0
+468,Today was the bad day for my endurance. I feel so horrible about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'endurance', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+469,Today was the bad day for my wellness. I feel so hate about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'wellness', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+470,I excellent my hydration session today!,"['i', 'excellent', 'my', 'hydration', 'session', 'today', '!']",0,1
+471,Today was the horrible day for my hydration. I feel so hate about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'hydration', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+472,I love my low-fat session today!,"['i', 'love', 'my', 'low-fat', 'session', 'today', '!']",0,1
+473,Today was the sad day for my personal trainer. I feel so bad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+474,Today was the bad day for my personal trainer. I feel so worst about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+475,Today was the sad day for my plank. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'plank', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+476,Today was the negative day for my portion control. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'portion', 'control', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+477,I excellent my burpees session today!,"['i', 'excellent', 'my', 'burpees', 'session', 'today', '!']",1,0
+478,Today was the bad day for my deadlift. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'deadlift', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+479,Today was the hate day for my strength. I feel so sad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'strength', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+480,I fantastic my gym session today! It really made a difference in my pilates!,"['i', 'fantastic', 'my', 'gym', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'pilates', '!']",2,0
+481,Today was the bad day for my macronutrients. I feel so disappointing about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'macronutrients', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+482,Today was the sad day for my yoga. I feel so poor about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'yoga', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+483,I great my cardiovascular session today! It really made a difference in my weight loss!,"['i', 'great', 'my', 'cardiovascular', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'weight', 'loss', '!']",1,0
+484,Today was the bad day for my fiber. I feel so worst about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'fiber', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+485,Today was the sad day for my detox. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'detox', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+486,Today was the disappointing day for my aerobics. I feel so worst about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+487,Today was the negative day for my cycling. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'cycling', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+488,I amazing my nutrition session today! It really made a difference in my personal trainer!,"['i', 'amazing', 'my', 'nutrition', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'personal', 'trainer', '!']",0,1
+489,I fantastic my Mediterranean diet session today! It really made a difference in my fat loss!,"['i', 'fantastic', 'my', 'mediterranean', 'diet', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fat', 'loss', '!']",0,1
+490,Today was the poor day for my performance. I feel so worst about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'performance', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+491,Today was the sad day for my healthy snacks. I feel so negative about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'healthy', 'snacks', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+492,Today was the worst day for my healthy eating. I feel so worst about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'healthy', 'eating', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+493,I positive my muscle gain session today! It really made a difference in my exercise!,"['i', 'positive', 'my', 'muscle', 'gain', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'exercise', '!']",2,0
+494,Today was the disappointing day for my nutrition. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'nutrition', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+495,Today was the horrible day for my training. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'training', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+496,Today was the worst day for my bodybuilding. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'bodybuilding', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+497,Today was the negative day for my portion sizes. I feel so sad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'portion', 'sizes', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+498,Today was the disappointing day for my bodyweight exercises. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'bodyweight', 'exercises', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+499,Today was the negative day for my exercise. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'exercise', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+500,Today was the hate day for my vegetarian. I feel so negative about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'vegetarian', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+501,I good my fats session today! It really made a difference in my running!,"['i', 'good', 'my', 'fats', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'running', '!']",1,1
+502,Today was the disappointing day for my minerals. I feel so disappointing about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+503,I excellent my fiber session today! It really made a difference in my fit!,"['i', 'excellent', 'my', 'fiber', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fit', '!']",1,1
+504,I great my calisthenics session today!,"['i', 'great', 'my', 'calisthenics', 'session', 'today', '!']",1,0
+505,Today was the hate day for my powerlifting. I feel so sad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'powerlifting', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+506,I amazing my exercise session today! It really made a difference in my stamina!,"['i', 'amazing', 'my', 'exercise', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'stamina', '!']",2,0
+507,I excellent my resistance training session today!,"['i', 'excellent', 'my', 'resistance', 'training', 'session', 'today', '!']",1,0
+508,I amazing my high-protein session today! It really made a difference in my training!,"['i', 'amazing', 'my', 'high-protein', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'training', '!']",1,1
+509,I love my superfoods session today!,"['i', 'love', 'my', 'superfoods', 'session', 'today', '!']",0,1
+510,Today was the poor day for my water intake. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'water', 'intake', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+511,Today was the bad day for my weight loss. I feel so disappointing about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'weight', 'loss', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+512,Today was the worst day for my fitness goals. I feel so poor about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'fitness', 'goals', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+513,Today was the poor day for my yoga. I feel so hate about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'yoga', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+514,Today was the disappointing day for my recovery. I feel so hate about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'recovery', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+515,I good my sports session today! It really made a difference in my deadlift!,"['i', 'good', 'my', 'sports', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'deadlift', '!']",2,0
+516,Today was the bad day for my squat. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'squat', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+517,I excellent my yoga session today! It really made a difference in my cardiovascular!,"['i', 'excellent', 'my', 'yoga', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cardiovascular', '!']",2,0
+518,I positive my muscle gain session today! It really made a difference in my personal trainer!,"['i', 'positive', 'my', 'muscle', 'gain', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'personal', 'trainer', '!']",1,0
+519,I amazing my bodyweight exercises session today! It really made a difference in my stretching!,"['i', 'amazing', 'my', 'bodyweight', 'exercises', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'stretching', '!']",1,0
+520,Today was the horrible day for my workout. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'workout', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+521,I happy my meal plan session today!,"['i', 'happy', 'my', 'meal', 'plan', 'session', 'today', '!']",0,0
+522,I great my exercise session today! It really made a difference in my stretching!,"['i', 'great', 'my', 'exercise', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'stretching', '!']",2,0
+523,I love my portion control session today!,"['i', 'love', 'my', 'portion', 'control', 'session', 'today', '!']",0,0
+524,I fantastic my stretching session today! It really made a difference in my fit!,"['i', 'fantastic', 'my', 'stretching', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fit', '!']",2,0
+525,Today was the negative day for my paleo. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'paleo', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+526,Today was the sad day for my flexibility. I feel so bad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'flexibility', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+527,Today was the worst day for my portion sizes. I feel so hate about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'portion', 'sizes', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+528,I fantastic my healthy lifestyle session today! It really made a difference in my hiit!,"['i', 'fantastic', 'my', 'healthy', 'lifestyle', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'hiit', '!']",1,0
+529,Today was the hate day for my strength. I feel so bad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'strength', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+530,I great my calisthenics session today!,"['i', 'great', 'my', 'calisthenics', 'session', 'today', '!']",1,0
+531,Today was the negative day for my water intake. I feel so hate about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'water', 'intake', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+532,I good my powerlifting session today!,"['i', 'good', 'my', 'powerlifting', 'session', 'today', '!']",1,0
+533,I happy my push-up session today!,"['i', 'happy', 'my', 'push-up', 'session', 'today', '!']",1,0
+534,Today was the horrible day for my flexibility. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'flexibility', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+535,Today was the poor day for my meal prep. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'meal', 'prep', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+536,I good my vegetarian session today! It really made a difference in my deadlift!,"['i', 'good', 'my', 'vegetarian', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'deadlift', '!']",1,1
+537,Today was the poor day for my flexibility. I feel so sad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'flexibility', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+538,I excellent my calorie surplus session today!,"['i', 'excellent', 'my', 'calorie', 'surplus', 'session', 'today', '!']",0,0
+539,I good my gmo-free session today!,"['i', 'good', 'my', 'gmo-free', 'session', 'today', '!']",0,1
+540,Today was the poor day for my processed foods. I feel so sad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'processed', 'foods', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+541,Today was the horrible day for my weight loss. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'weight', 'loss', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+542,Today was the bad day for my gmo-free. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'gmo-free', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+543,Today was the sad day for my gym. I feel so disappointing about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+544,Today was the negative day for my cardio. I feel so worst about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'cardio', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+545,I positive my strength session today!,"['i', 'positive', 'my', 'strength', 'session', 'today', '!']",1,0
+546,Today was the disappointing day for my meal prep. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'meal', 'prep', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+547,I amazing my plank session today! It really made a difference in my core!,"['i', 'amazing', 'my', 'plank', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'core', '!']",2,0
+548,I amazing my weightlifting session today! It really made a difference in my bodyweight exercises!,"['i', 'amazing', 'my', 'weightlifting', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodyweight', 'exercises', '!']",1,0
+549,I amazing my bodyweight exercises session today! It really made a difference in my fitness journey!,"['i', 'amazing', 'my', 'bodyweight', 'exercises', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', 'journey', '!']",1,0
+550,I love my nutrient-dense session today!,"['i', 'love', 'my', 'nutrient-dense', 'session', 'today', '!']",0,1
+551,Today was the hate day for my training. I feel so hate about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'training', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+552,Today was the poor day for my sports. I feel so sad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'sports', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+553,Today was the disappointing day for my gluten-free. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'gluten-free', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+554,I excellent my weightlifting session today!,"['i', 'excellent', 'my', 'weightlifting', 'session', 'today', '!']",1,0
+555,I excellent my powerlifting session today!,"['i', 'excellent', 'my', 'powerlifting', 'session', 'today', '!']",1,0
+556,Today was the negative day for my aerobics. I feel so worst about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+557,I fantastic my hydration session today!,"['i', 'fantastic', 'my', 'hydration', 'session', 'today', '!']",0,1
+558,Today was the poor day for my keto. I feel so disappointing about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'keto', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+559,Today was the disappointing day for my healthy eating. I feel so horrible about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'healthy', 'eating', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+560,Today was the bad day for my keto. I feel so disappointing about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'keto', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+561,Today was the horrible day for my dietary restrictions. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'dietary', 'restrictions', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+562,Today was the disappointing day for my cardiovascular. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'cardiovascular', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+563,Today was the sad day for my high-protein. I feel so hate about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'high-protein', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+564,Today was the worst day for my push-up. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'push-up', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+565,I fantastic my flexibility session today! It really made a difference in my plank!,"['i', 'fantastic', 'my', 'flexibility', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'plank', '!']",2,0
+566,Today was the poor day for my strength training. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'strength', 'training', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",2,0
+567,I good my vegetarian session today! It really made a difference in my fat loss!,"['i', 'good', 'my', 'vegetarian', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fat', 'loss', '!']",0,1
+568,Today was the bad day for my weight loss. I feel so poor about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'weight', 'loss', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+569,I fantastic my meal plan session today! It really made a difference in my yoga!,"['i', 'fantastic', 'my', 'meal', 'plan', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'yoga', '!']",1,0
+570,Today was the poor day for my calisthenics. I feel so hate about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'calisthenics', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+571,I positive my hiit session today! It really made a difference in my fitness goals!,"['i', 'positive', 'my', 'hiit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', 'goals', '!']",2,0
+572,I positive my squat session today!,"['i', 'positive', 'my', 'squat', 'session', 'today', '!']",1,0
+573,I love my balanced diet session today!,"['i', 'love', 'my', 'balanced', 'diet', 'session', 'today', '!']",0,1
+574,I love my exercise session today! It really made a difference in my muscle!,"['i', 'love', 'my', 'exercise', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', '!']",2,0
+575,I amazing my flexibility session today!,"['i', 'amazing', 'my', 'flexibility', 'session', 'today', '!']",1,0
+576,Today was the bad day for my personal trainer. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+577,Today was the sad day for my strength training. I feel so poor about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'strength', 'training', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",2,0
+578,I amazing my recovery session today!,"['i', 'amazing', 'my', 'recovery', 'session', 'today', '!']",1,0
+579,Today was the worst day for my weight loss. I feel so negative about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'weight', 'loss', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+580,Today was the poor day for my low-sodium. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'low-sodium', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+581,I positive my muscle gain session today!,"['i', 'positive', 'my', 'muscle', 'gain', 'session', 'today', '!']",1,0
+582,Today was the worst day for my vegan. I feel so poor about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'vegan', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+583,Today was the poor day for my deadlift. I feel so hate about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'deadlift', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+584,I fantastic my processed foods session today! It really made a difference in my gym!,"['i', 'fantastic', 'my', 'processed', 'foods', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'gym', '!']",1,0
+585,I excellent my carbohydrates session today! It really made a difference in my running!,"['i', 'excellent', 'my', 'carbohydrates', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'running', '!']",1,1
+586,I happy my gym session today! It really made a difference in my exercise!,"['i', 'happy', 'my', 'gym', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'exercise', '!']",2,0
+587,I fantastic my pilates session today! It really made a difference in my hiit!,"['i', 'fantastic', 'my', 'pilates', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'hiit', '!']",2,0
+588,I love my carbohydrates session today!,"['i', 'love', 'my', 'carbohydrates', 'session', 'today', '!']",0,1
+589,I love my sugar-free session today!,"['i', 'love', 'my', 'sugar-free', 'session', 'today', '!']",0,1
+590,I amazing my micronutrients session today! It really made a difference in my resistance training!,"['i', 'amazing', 'my', 'micronutrients', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'resistance', 'training', '!']",1,1
+591,Today was the negative day for my vitamins. I feel so hate about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'vitamins', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+592,I love my stretching session today! It really made a difference in my deadlift!,"['i', 'love', 'my', 'stretching', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'deadlift', '!']",2,0
+593,Today was the poor day for my personal trainer. I feel so hate about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+594,I happy my wellness session today!,"['i', 'happy', 'my', 'wellness', 'session', 'today', '!']",1,0
+595,I good my exercise session today! It really made a difference in my resistance training!,"['i', 'good', 'my', 'exercise', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'resistance', 'training', '!']",2,0
+596,Today was the disappointing day for my active lifestyle. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'active', 'lifestyle', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+597,Today was the worst day for my nutrition. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'nutrition', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+598,Today was the sad day for my Mediterranean diet. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'mediterranean', 'diet', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+599,I happy my nutrition session today!,"['i', 'happy', 'my', 'nutrition', 'session', 'today', '!']",0,1
+600,Today was the worst day for my stamina. I feel so sad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'stamina', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+601,I positive my bodyweight exercises session today!,"['i', 'positive', 'my', 'bodyweight', 'exercises', 'session', 'today', '!']",0,0
+602,I happy my minerals session today!,"['i', 'happy', 'my', 'minerals', 'session', 'today', '!']",0,1
+603,Today was the disappointing day for my recovery. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'recovery', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+604,I good my diet session today!,"['i', 'good', 'my', 'diet', 'session', 'today', '!']",0,1
+605,Today was the disappointing day for my strength. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'strength', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+606,I fantastic my low-sodium session today!,"['i', 'fantastic', 'my', 'low-sodium', 'session', 'today', '!']",0,1
+607,Today was the negative day for my bodybuilding. I feel so sad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'bodybuilding', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+608,Today was the negative day for my calories. I feel so bad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'calories', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+609,I fantastic my detox session today! It really made a difference in my push-up!,"['i', 'fantastic', 'my', 'detox', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'push-up', '!']",1,1
+610,I positive my health session today! It really made a difference in my flexibility!,"['i', 'positive', 'my', 'health', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'flexibility', '!']",2,0
+611,Today was the disappointing day for my calorie deficit. I feel so disappointing about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'calorie', 'deficit', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+612,I positive my nutrition labels session today!,"['i', 'positive', 'my', 'nutrition', 'labels', 'session', 'today', '!']",0,1
+613,Today was the bad day for my food pyramid. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'food', 'pyramid', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+614,I love my high-protein session today! It really made a difference in my fitness goals!,"['i', 'love', 'my', 'high-protein', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', 'goals', '!']",1,1
+615,Today was the poor day for my proteins. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'proteins', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+616,Today was the poor day for my processed foods. I feel so disappointing about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'processed', 'foods', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+617,I amazing my sugar-free session today! It really made a difference in my resistance training!,"['i', 'amazing', 'my', 'sugar-free', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'resistance', 'training', '!']",1,1
+618,I fantastic my healthy eating session today! It really made a difference in my burpees!,"['i', 'fantastic', 'my', 'healthy', 'eating', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'burpees', '!']",1,0
+619,Today was the bad day for my personal trainer. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+620,Today was the horrible day for my low-fat. I feel so disappointing about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'low-fat', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+621,Today was the horrible day for my calorie surplus. I feel so hate about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'calorie', 'surplus', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+622,Today was the disappointing day for my food pyramid. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'food', 'pyramid', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+623,I positive my clean eating session today! It really made a difference in my motivation!,"['i', 'positive', 'my', 'clean', 'eating', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'motivation', '!']",1,0
+624,I excellent my calories session today!,"['i', 'excellent', 'my', 'calories', 'session', 'today', '!']",0,1
+625,I good my calories session today!,"['i', 'good', 'my', 'calories', 'session', 'today', '!']",0,1
+626,I excellent my gym session today!,"['i', 'excellent', 'my', 'gym', 'session', 'today', '!']",1,0
+627,I fantastic my squat session today!,"['i', 'fantastic', 'my', 'squat', 'session', 'today', '!']",1,0
+628,I positive my vitamins session today! It really made a difference in my recovery!,"['i', 'positive', 'my', 'vitamins', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'recovery', '!']",1,1
+629,Today was the sad day for my plank. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'plank', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+630,Today was the worst day for my calories. I feel so horrible about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'calories', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+631,Today was the hate day for my intermittent fasting. I feel so worst about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'intermittent', 'fasting', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+632,I amazing my gluten-free session today! It really made a difference in my personal trainer!,"['i', 'amazing', 'my', 'gluten-free', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'personal', 'trainer', '!']",0,1
+633,I happy my deadlift session today! It really made a difference in my strength!,"['i', 'happy', 'my', 'deadlift', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'strength', '!']",2,0
+634,Today was the worst day for my workout. I feel so horrible about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'workout', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+635,I happy my squat session today! It really made a difference in my flexibility!,"['i', 'happy', 'my', 'squat', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'flexibility', '!']",2,0
+636,Today was the negative day for my personal trainer. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+637,Today was the bad day for my intermittent fasting. I feel so disappointing about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'intermittent', 'fasting', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+638,I fantastic my sports session today!,"['i', 'fantastic', 'my', 'sports', 'session', 'today', '!']",1,0
+639,I amazing my active lifestyle session today!,"['i', 'amazing', 'my', 'active', 'lifestyle', 'session', 'today', '!']",0,0
+640,Today was the worst day for my resistance training. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'resistance', 'training', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+641,Today was the negative day for my powerlifting. I feel so worst about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'powerlifting', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+642,Today was the sad day for my high-protein. I feel so hate about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'high-protein', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+643,Today was the horrible day for my powerlifting. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'powerlifting', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+644,I great my healthy snacks session today!,"['i', 'great', 'my', 'healthy', 'snacks', 'session', 'today', '!']",0,0
+645,Today was the negative day for my squat. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'squat', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+646,I good my meal plan session today!,"['i', 'good', 'my', 'meal', 'plan', 'session', 'today', '!']",0,0
+647,I great my muscle session today!,"['i', 'great', 'my', 'muscle', 'session', 'today', '!']",1,0
+648,Today was the poor day for my workout. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'workout', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+649,I amazing my deadlift session today! It really made a difference in my core!,"['i', 'amazing', 'my', 'deadlift', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'core', '!']",2,0
+650,Today was the negative day for my fitness journey. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'fitness', 'journey', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+651,Today was the disappointing day for my bodybuilding. I feel so horrible about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'bodybuilding', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+652,Today was the negative day for my organic. I feel so bad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'organic', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+653,I happy my meal prep session today! It really made a difference in my running!,"['i', 'happy', 'my', 'meal', 'prep', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'running', '!']",1,0
+654,Today was the poor day for my workout. I feel so bad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'workout', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+655,Today was the negative day for my bodyweight exercises. I feel so hate about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'bodyweight', 'exercises', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+656,I amazing my motivation session today! It really made a difference in my cycling!,"['i', 'amazing', 'my', 'motivation', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cycling', '!']",2,0
+657,I fantastic my meal prep session today!,"['i', 'fantastic', 'my', 'meal', 'prep', 'session', 'today', '!']",0,0
+658,I good my weight loss session today! It really made a difference in my cycling!,"['i', 'good', 'my', 'weight', 'loss', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cycling', '!']",1,0
+659,Today was the horrible day for my calories. I feel so hate about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'calories', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+660,I good my detox session today!,"['i', 'good', 'my', 'detox', 'session', 'today', '!']",0,1
+661,Today was the poor day for my proteins. I feel so negative about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'proteins', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+662,Today was the hate day for my recovery. I feel so poor about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'recovery', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+663,Today was the worst day for my running. I feel so horrible about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'running', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+664,I happy my nutrition session today! It really made a difference in my pilates!,"['i', 'happy', 'my', 'nutrition', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'pilates', '!']",1,1
+665,Today was the sad day for my food pyramid. I feel so hate about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'food', 'pyramid', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+666,I great my whole foods session today! It really made a difference in my flexibility!,"['i', 'great', 'my', 'whole', 'foods', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'flexibility', '!']",1,0
+667,I positive my bodyweight exercises session today!,"['i', 'positive', 'my', 'bodyweight', 'exercises', 'session', 'today', '!']",0,0
+668,I positive my fat loss session today! It really made a difference in my core!,"['i', 'positive', 'my', 'fat', 'loss', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'core', '!']",1,0
+669,I good my vitamins session today!,"['i', 'good', 'my', 'vitamins', 'session', 'today', '!']",0,1
+670,Today was the hate day for my weightlifting. I feel so hate about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'weightlifting', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+671,Today was the worst day for my calorie surplus. I feel so disappointing about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'calorie', 'surplus', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+672,I amazing my clean eating session today!,"['i', 'amazing', 'my', 'clean', 'eating', 'session', 'today', '!']",0,0
+673,I amazing my core session today!,"['i', 'amazing', 'my', 'core', 'session', 'today', '!']",1,0
+674,Today was the worst day for my keto. I feel so poor about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'keto', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+675,Today was the worst day for my portion sizes. I feel so worst about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'portion', 'sizes', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+676,Today was the worst day for my cardio. I feel so poor about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'cardio', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+677,Today was the negative day for my gym. I feel so bad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+678,Today was the negative day for my calorie deficit. I feel so poor about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'calorie', 'deficit', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+679,Today was the bad day for my balanced diet. I feel so hate about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'balanced', 'diet', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+680,Today was the sad day for my deadlift. I feel so bad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'deadlift', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+681,Today was the bad day for my fiber. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'fiber', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+682,Today was the disappointing day for my resistance training. I feel so hate about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'resistance', 'training', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+683,I good my fiber session today!,"['i', 'good', 'my', 'fiber', 'session', 'today', '!']",0,1
+684,Today was the bad day for my low-carb. I feel so hate about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'low-carb', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+685,Today was the disappointing day for my weight loss. I feel so bad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'weight', 'loss', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+686,Today was the disappointing day for my gym. I feel so hate about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+687,I amazing my recovery session today! It really made a difference in my weight loss!,"['i', 'amazing', 'my', 'recovery', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'weight', 'loss', '!']",1,0
+688,I happy my portion sizes session today!,"['i', 'happy', 'my', 'portion', 'sizes', 'session', 'today', '!']",0,0
+689,I great my diet session today! It really made a difference in my health!,"['i', 'great', 'my', 'diet', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'health', '!']",1,1
+690,Today was the disappointing day for my minerals. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+691,Today was the horrible day for my dietary restrictions. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'dietary', 'restrictions', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+692,Today was the poor day for my plank. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'plank', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+693,Today was the poor day for my nutrient-dense. I feel so negative about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'nutrient-dense', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+694,Today was the bad day for my diet. I feel so hate about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'diet', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+695,Today was the horrible day for my processed foods. I feel so disappointing about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'processed', 'foods', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+696,I excellent my plank session today!,"['i', 'excellent', 'my', 'plank', 'session', 'today', '!']",1,0
+697,Today was the poor day for my minerals. I feel so bad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+698,Today was the bad day for my exercise. I feel so horrible about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'exercise', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+699,I excellent my sports session today!,"['i', 'excellent', 'my', 'sports', 'session', 'today', '!']",1,0
+700,I happy my sugar-free session today!,"['i', 'happy', 'my', 'sugar-free', 'session', 'today', '!']",0,1
+701,I excellent my push-up session today!,"['i', 'excellent', 'my', 'push-up', 'session', 'today', '!']",1,0
+702,Today was the bad day for my sports. I feel so horrible about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'sports', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+703,Today was the bad day for my portion sizes. I feel so horrible about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'portion', 'sizes', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+704,I excellent my bodyweight exercises session today!,"['i', 'excellent', 'my', 'bodyweight', 'exercises', 'session', 'today', '!']",0,0
+705,Today was the sad day for my vegetarian. I feel so poor about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'vegetarian', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+706,Today was the poor day for my muscle. I feel so sad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'muscle', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+707,I happy my weight loss session today! It really made a difference in my calisthenics!,"['i', 'happy', 'my', 'weight', 'loss', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'calisthenics', '!']",1,0
+708,I good my muscle session today! It really made a difference in my plank!,"['i', 'good', 'my', 'muscle', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'plank', '!']",2,0
+709,I amazing my yoga session today! It really made a difference in my healthy lifestyle!,"['i', 'amazing', 'my', 'yoga', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'healthy', 'lifestyle', '!']",1,0
+710,I excellent my calorie deficit session today! It really made a difference in my fitness!,"['i', 'excellent', 'my', 'calorie', 'deficit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', '!']",1,0
+711,I good my fit session today! It really made a difference in my training!,"['i', 'good', 'my', 'fit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'training', '!']",2,0
+712,I amazing my whole foods session today! It really made a difference in my healthy lifestyle!,"['i', 'amazing', 'my', 'whole', 'foods', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'healthy', 'lifestyle', '!']",0,0
+713,I positive my weight loss session today!,"['i', 'positive', 'my', 'weight', 'loss', 'session', 'today', '!']",0,0
+714,I positive my gmo-free session today!,"['i', 'positive', 'my', 'gmo-free', 'session', 'today', '!']",0,1
+715,I fantastic my deadlift session today! It really made a difference in my burpees!,"['i', 'fantastic', 'my', 'deadlift', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'burpees', '!']",2,0
+716,Today was the disappointing day for my calorie deficit. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'calorie', 'deficit', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+717,Today was the horrible day for my minerals. I feel so horrible about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+718,Today was the sad day for my muscle gain. I feel so bad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'muscle', 'gain', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+719,I amazing my flexibility session today!,"['i', 'amazing', 'my', 'flexibility', 'session', 'today', '!']",1,0
+720,I great my stamina session today!,"['i', 'great', 'my', 'stamina', 'session', 'today', '!']",1,0
+721,I excellent my weight loss session today!,"['i', 'excellent', 'my', 'weight', 'loss', 'session', 'today', '!']",0,0
+722,Today was the horrible day for my weightlifting. I feel so hate about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'weightlifting', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+723,Today was the hate day for my minerals. I feel so poor about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+724,Today was the disappointing day for my muscle. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'muscle', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+725,I excellent my calisthenics session today!,"['i', 'excellent', 'my', 'calisthenics', 'session', 'today', '!']",1,0
+726,I great my yoga session today! It really made a difference in my healthy lifestyle!,"['i', 'great', 'my', 'yoga', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'healthy', 'lifestyle', '!']",1,0
+727,I fantastic my food diary session today! It really made a difference in my stamina!,"['i', 'fantastic', 'my', 'food', 'diary', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'stamina', '!']",1,0
+728,Today was the worst day for my high-protein. I feel so negative about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'high-protein', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+729,I amazing my yoga session today!,"['i', 'amazing', 'my', 'yoga', 'session', 'today', '!']",1,0
+730,I good my superfoods session today! It really made a difference in my workout!,"['i', 'good', 'my', 'superfoods', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'workout', '!']",1,1
+731,I happy my plank session today! It really made a difference in my motivation!,"['i', 'happy', 'my', 'plank', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'motivation', '!']",2,0
+732,I love my plank session today! It really made a difference in my weight loss!,"['i', 'love', 'my', 'plank', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'weight', 'loss', '!']",1,0
+733,I amazing my weight loss session today!,"['i', 'amazing', 'my', 'weight', 'loss', 'session', 'today', '!']",0,0
+734,Today was the horrible day for my plank. I feel so poor about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'plank', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+735,Today was the worst day for my muscle gain. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'muscle', 'gain', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+736,Today was the worst day for my weightlifting. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'weightlifting', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+737,Today was the disappointing day for my performance. I feel so poor about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'performance', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+738,I love my deadlift session today! It really made a difference in my deadlift!,"['i', 'love', 'my', 'deadlift', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'deadlift', '!']",2,0
+739,I great my minerals session today! It really made a difference in my strength training!,"['i', 'great', 'my', 'minerals', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'strength', 'training', '!']",2,1
+740,I great my vitamins session today!,"['i', 'great', 'my', 'vitamins', 'session', 'today', '!']",0,1
+741,Today was the bad day for my dietary restrictions. I feel so horrible about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'dietary', 'restrictions', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+742,Today was the horrible day for my keto. I feel so horrible about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'keto', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+743,I good my health session today!,"['i', 'good', 'my', 'health', 'session', 'today', '!']",1,0
+744,Today was the horrible day for my gym. I feel so poor about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+745,Today was the bad day for my powerlifting. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'powerlifting', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+746,Today was the bad day for my sports. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'sports', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+747,Today was the horrible day for my pilates. I feel so worst about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'pilates', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+748,I amazing my fitness journey session today! It really made a difference in my health!,"['i', 'amazing', 'my', 'fitness', 'journey', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'health', '!']",2,0
+749,Today was the negative day for my training. I feel so hate about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'training', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+750,I fantastic my water intake session today! It really made a difference in my cycling!,"['i', 'fantastic', 'my', 'water', 'intake', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cycling', '!']",1,0
+751,I fantastic my whole foods session today! It really made a difference in my plank!,"['i', 'fantastic', 'my', 'whole', 'foods', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'plank', '!']",1,0
+752,I amazing my antioxidants session today! It really made a difference in my motivation!,"['i', 'amazing', 'my', 'antioxidants', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'motivation', '!']",1,1
+753,I good my gluten-free session today! It really made a difference in my strength!,"['i', 'good', 'my', 'gluten-free', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'strength', '!']",1,1
+754,I excellent my calories session today!,"['i', 'excellent', 'my', 'calories', 'session', 'today', '!']",0,1
+755,I positive my healthy lifestyle session today!,"['i', 'positive', 'my', 'healthy', 'lifestyle', 'session', 'today', '!']",0,0
+756,Today was the horrible day for my gluten-free. I feel so negative about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'gluten-free', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+757,Today was the horrible day for my health. I feel so sad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'health', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+758,I great my calories session today! It really made a difference in my performance!,"['i', 'great', 'my', 'calories', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'performance', '!']",1,1
+759,Today was the sad day for my antioxidants. I feel so hate about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'antioxidants', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+760,I fantastic my weightlifting session today!,"['i', 'fantastic', 'my', 'weightlifting', 'session', 'today', '!']",1,0
+761,Today was the bad day for my Mediterranean diet. I feel so negative about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'mediterranean', 'diet', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+762,I good my fats session today!,"['i', 'good', 'my', 'fats', 'session', 'today', '!']",0,1
+763,Today was the poor day for my push-up. I feel so hate about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'push-up', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+764,I positive my push-up session today! It really made a difference in my muscle gain!,"['i', 'positive', 'my', 'push-up', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', 'gain', '!']",2,0
+765,I excellent my fitness session today!,"['i', 'excellent', 'my', 'fitness', 'session', 'today', '!']",1,0
+766,I love my minerals session today!,"['i', 'love', 'my', 'minerals', 'session', 'today', '!']",0,1
+767,I amazing my dietary restrictions session today! It really made a difference in my weight loss!,"['i', 'amazing', 'my', 'dietary', 'restrictions', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'weight', 'loss', '!']",0,0
+768,Today was the hate day for my vitamins. I feel so bad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'vitamins', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+769,Today was the poor day for my workout. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'workout', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+770,I good my plank session today! It really made a difference in my active lifestyle!,"['i', 'good', 'my', 'plank', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'active', 'lifestyle', '!']",1,0
+771,I happy my meal prep session today! It really made a difference in my health!,"['i', 'happy', 'my', 'meal', 'prep', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'health', '!']",1,0
+772,I positive my exercise session today!,"['i', 'positive', 'my', 'exercise', 'session', 'today', '!']",1,0
+773,Today was the negative day for my detox. I feel so sad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'detox', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+774,I good my low-carb session today! It really made a difference in my wellness!,"['i', 'good', 'my', 'low-carb', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'wellness', '!']",1,1
+775,Today was the sad day for my gym. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+776,I love my core session today!,"['i', 'love', 'my', 'core', 'session', 'today', '!']",1,0
+777,I great my whole foods session today! It really made a difference in my cardiovascular!,"['i', 'great', 'my', 'whole', 'foods', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cardiovascular', '!']",1,0
+778,I great my core session today!,"['i', 'great', 'my', 'core', 'session', 'today', '!']",1,0
+779,Today was the poor day for my hiit. I feel so worst about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'hiit', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+780,Today was the disappointing day for my healthy lifestyle. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'healthy', 'lifestyle', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+781,I good my recovery session today!,"['i', 'good', 'my', 'recovery', 'session', 'today', '!']",1,0
+782,I good my stretching session today!,"['i', 'good', 'my', 'stretching', 'session', 'today', '!']",1,0
+783,I positive my cardio session today!,"['i', 'positive', 'my', 'cardio', 'session', 'today', '!']",1,0
+784,I great my nutrition session today! It really made a difference in my push-up!,"['i', 'great', 'my', 'nutrition', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'push-up', '!']",1,1
+785,Today was the disappointing day for my hydration. I feel so horrible about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'hydration', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+786,Today was the disappointing day for my cycling. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'cycling', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+787,Today was the disappointing day for my gym. I feel so disappointing about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+788,I amazing my resistance training session today! It really made a difference in my exercise!,"['i', 'amazing', 'my', 'resistance', 'training', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'exercise', '!']",2,0
+789,Today was the bad day for my sugar-free. I feel so worst about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'sugar-free', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+790,Today was the worst day for my dietary restrictions. I feel so sad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'dietary', 'restrictions', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+791,I great my water intake session today! It really made a difference in my muscle!,"['i', 'great', 'my', 'water', 'intake', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', '!']",1,0
+792,I fantastic my fitness goals session today!,"['i', 'fantastic', 'my', 'fitness', 'goals', 'session', 'today', '!']",1,0
+793,Today was the worst day for my healthy snacks. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'healthy', 'snacks', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+794,Today was the poor day for my training. I feel so bad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'training', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+795,Today was the sad day for my macronutrients. I feel so negative about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'macronutrients', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+796,I amazing my calisthenics session today!,"['i', 'amazing', 'my', 'calisthenics', 'session', 'today', '!']",1,0
+797,I positive my wellness session today! It really made a difference in my training!,"['i', 'positive', 'my', 'wellness', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'training', '!']",2,0
+798,I positive my cycling session today!,"['i', 'positive', 'my', 'cycling', 'session', 'today', '!']",1,0
+799,I happy my recovery session today!,"['i', 'happy', 'my', 'recovery', 'session', 'today', '!']",1,0
+800,Today was the worst day for my organic. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'organic', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+801,I great my resistance training session today!,"['i', 'great', 'my', 'resistance', 'training', 'session', 'today', '!']",1,0
+802,I positive my fats session today!,"['i', 'positive', 'my', 'fats', 'session', 'today', '!']",0,1
+803,I happy my nutrient-dense session today! It really made a difference in my squat!,"['i', 'happy', 'my', 'nutrient-dense', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'squat', '!']",1,1
+804,Today was the hate day for my sports. I feel so horrible about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'sports', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+805,Today was the poor day for my calorie deficit. I feel so sad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'calorie', 'deficit', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+806,I positive my bodyweight exercises session today!,"['i', 'positive', 'my', 'bodyweight', 'exercises', 'session', 'today', '!']",0,0
+807,Today was the poor day for my hydration. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'hydration', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+808,Today was the poor day for my food pyramid. I feel so disappointing about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'food', 'pyramid', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+809,I positive my aerobics session today!,"['i', 'positive', 'my', 'aerobics', 'session', 'today', '!']",1,0
+810,Today was the hate day for my fitness journey. I feel so disappointing about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'fitness', 'journey', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+811,Today was the hate day for my whole foods. I feel so negative about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'whole', 'foods', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+812,Today was the horrible day for my health. I feel so negative about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'health', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+813,I love my running session today!,"['i', 'love', 'my', 'running', 'session', 'today', '!']",1,0
+814,I happy my flexibility session today! It really made a difference in my strength!,"['i', 'happy', 'my', 'flexibility', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'strength', '!']",2,0
+815,I great my cycling session today! It really made a difference in my plank!,"['i', 'great', 'my', 'cycling', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'plank', '!']",2,0
+816,I love my fitness session today!,"['i', 'love', 'my', 'fitness', 'session', 'today', '!']",1,0
+817,I great my carbohydrates session today!,"['i', 'great', 'my', 'carbohydrates', 'session', 'today', '!']",0,1
+818,Today was the sad day for my calorie surplus. I feel so worst about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'calorie', 'surplus', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+819,I fantastic my healthy snacks session today! It really made a difference in my training!,"['i', 'fantastic', 'my', 'healthy', 'snacks', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'training', '!']",1,0
+820,Today was the sad day for my nutrition labels. I feel so sad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'nutrition', 'labels', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+821,Today was the poor day for my exercise. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'exercise', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+822,I amazing my water intake session today!,"['i', 'amazing', 'my', 'water', 'intake', 'session', 'today', '!']",0,0
+823,Today was the bad day for my intermittent fasting. I feel so hate about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'intermittent', 'fasting', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,0
+824,I excellent my recovery session today! It really made a difference in my training!,"['i', 'excellent', 'my', 'recovery', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'training', '!']",2,0
+825,Today was the negative day for my training. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'training', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+826,I love my stretching session today! It really made a difference in my healthy lifestyle!,"['i', 'love', 'my', 'stretching', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'healthy', 'lifestyle', '!']",1,0
+827,Today was the hate day for my keto. I feel so negative about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'keto', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+828,I happy my performance session today! It really made a difference in my yoga!,"['i', 'happy', 'my', 'performance', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'yoga', '!']",2,0
+829,Today was the hate day for my balanced diet. I feel so horrible about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'balanced', 'diet', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+830,Today was the poor day for my weightlifting. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'weightlifting', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+831,I amazing my core session today! It really made a difference in my cycling!,"['i', 'amazing', 'my', 'core', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cycling', '!']",2,0
+832,Today was the worst day for my vitamins. I feel so worst about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'vitamins', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+833,I excellent my nutrition session today! It really made a difference in my bodybuilding!,"['i', 'excellent', 'my', 'nutrition', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodybuilding', '!']",1,1
+834,I fantastic my bodybuilding session today!,"['i', 'fantastic', 'my', 'bodybuilding', 'session', 'today', '!']",1,0
+835,Today was the disappointing day for my dietary restrictions. I feel so worst about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'dietary', 'restrictions', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,0
+836,Today was the poor day for my high-protein. I feel so negative about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'high-protein', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+837,I positive my meal plan session today! It really made a difference in my active lifestyle!,"['i', 'positive', 'my', 'meal', 'plan', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'active', 'lifestyle', '!']",0,0
+838,I happy my calorie deficit session today! It really made a difference in my pilates!,"['i', 'happy', 'my', 'calorie', 'deficit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'pilates', '!']",1,0
+839,I positive my bodybuilding session today! It really made a difference in my push-up!,"['i', 'positive', 'my', 'bodybuilding', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'push-up', '!']",2,0
+840,I positive my carbohydrates session today!,"['i', 'positive', 'my', 'carbohydrates', 'session', 'today', '!']",0,1
+841,I positive my vegetarian session today! It really made a difference in my deadlift!,"['i', 'positive', 'my', 'vegetarian', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'deadlift', '!']",1,1
+842,Today was the negative day for my vitamins. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'vitamins', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+843,Today was the poor day for my performance. I feel so sad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'performance', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+844,I fantastic my bodybuilding session today! It really made a difference in my burpees!,"['i', 'fantastic', 'my', 'bodybuilding', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'burpees', '!']",2,0
+845,Today was the worst day for my squat. I feel so negative about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'squat', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+846,Today was the worst day for my minerals. I feel so sad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+847,Today was the horrible day for my gluten-free. I feel so poor about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'gluten-free', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+848,Today was the worst day for my muscle gain. I feel so worst about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'muscle', 'gain', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+849,Today was the hate day for my minerals. I feel so worst about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+850,Today was the bad day for my aerobics. I feel so worst about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+851,Today was the poor day for my fiber. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'fiber', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+852,Today was the hate day for my superfoods. I feel so horrible about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'superfoods', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+853,Today was the hate day for my fit. I feel so disappointing about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'fit', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+854,Today was the sad day for my dietary restrictions. I feel so disappointing about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'dietary', 'restrictions', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+855,I excellent my low-sodium session today!,"['i', 'excellent', 'my', 'low-sodium', 'session', 'today', '!']",0,1
+856,I love my fiber session today!,"['i', 'love', 'my', 'fiber', 'session', 'today', '!']",0,1
+857,Today was the bad day for my processed foods. I feel so poor about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'processed', 'foods', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+858,I positive my pilates session today! It really made a difference in my fitness goals!,"['i', 'positive', 'my', 'pilates', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'fitness', 'goals', '!']",2,0
+859,Today was the negative day for my pilates. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'pilates', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+860,Today was the negative day for my vegan. I feel so poor about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'vegan', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+861,I love my weightlifting session today!,"['i', 'love', 'my', 'weightlifting', 'session', 'today', '!']",1,0
+862,Today was the bad day for my gym. I feel so hate about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+863,I excellent my nutrition labels session today! It really made a difference in my flexibility!,"['i', 'excellent', 'my', 'nutrition', 'labels', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'flexibility', '!']",1,1
+864,I positive my organic session today! It really made a difference in my active lifestyle!,"['i', 'positive', 'my', 'organic', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'active', 'lifestyle', '!']",0,1
+865,I positive my weight loss session today! It really made a difference in my muscle!,"['i', 'positive', 'my', 'weight', 'loss', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', '!']",1,0
+866,Today was the horrible day for my fiber. I feel so disappointing about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'fiber', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+867,Today was the disappointing day for my exercise. I feel so disappointing about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'exercise', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+868,Today was the hate day for my healthy lifestyle. I feel so horrible about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'healthy', 'lifestyle', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+869,Today was the sad day for my weight loss. I feel so horrible about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'weight', 'loss', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+870,I amazing my push-up session today!,"['i', 'amazing', 'my', 'push-up', 'session', 'today', '!']",1,0
+871,Today was the hate day for my stretching. I feel so worst about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'stretching', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+872,Today was the negative day for my sugar-free. I feel so worst about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'sugar-free', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+873,I happy my fit session today! It really made a difference in my wellness!,"['i', 'happy', 'my', 'fit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'wellness', '!']",2,0
+874,Today was the horrible day for my hydration. I feel so poor about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'hydration', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+875,Today was the poor day for my vegan. I feel so hate about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'vegan', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+876,Today was the negative day for my hydration. I feel so poor about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'hydration', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+877,I love my micronutrients session today! It really made a difference in my motivation!,"['i', 'love', 'my', 'micronutrients', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'motivation', '!']",1,1
+878,Today was the disappointing day for my processed foods. I feel so horrible about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'processed', 'foods', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+879,Today was the hate day for my portion sizes. I feel so sad about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'portion', 'sizes', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+880,Today was the poor day for my micronutrients. I feel so hate about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'micronutrients', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",0,1
+881,I amazing my portion sizes session today!,"['i', 'amazing', 'my', 'portion', 'sizes', 'session', 'today', '!']",0,0
+882,I happy my vegan session today! It really made a difference in my cardio!,"['i', 'happy', 'my', 'vegan', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cardio', '!']",1,1
+883,I amazing my calories session today! It really made a difference in my stamina!,"['i', 'amazing', 'my', 'calories', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'stamina', '!']",1,1
+884,Today was the negative day for my sugar-free. I feel so sad about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'sugar-free', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+885,Today was the poor day for my nutrition labels. I feel so poor about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'nutrition', 'labels', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,1
+886,I excellent my low-fat session today! It really made a difference in my squat!,"['i', 'excellent', 'my', 'low-fat', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'squat', '!']",1,1
+887,I positive my stamina session today! It really made a difference in my muscle!,"['i', 'positive', 'my', 'stamina', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', '!']",2,0
+888,I love my active lifestyle session today!,"['i', 'love', 'my', 'active', 'lifestyle', 'session', 'today', '!']",0,0
+889,I love my keto session today! It really made a difference in my personal trainer!,"['i', 'love', 'my', 'keto', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'personal', 'trainer', '!']",0,1
+890,I great my minerals session today! It really made a difference in my cardio!,"['i', 'great', 'my', 'minerals', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'cardio', '!']",1,1
+891,Today was the negative day for my core. I feel so poor about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'core', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+892,I happy my low-carb session today!,"['i', 'happy', 'my', 'low-carb', 'session', 'today', '!']",0,1
+893,I great my weight loss session today! It really made a difference in my plank!,"['i', 'great', 'my', 'weight', 'loss', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'plank', '!']",1,0
+894,Today was the poor day for my resistance training. I feel so sad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'resistance', 'training', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+895,Today was the poor day for my weight loss. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'weight', 'loss', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+896,I amazing my wellness session today!,"['i', 'amazing', 'my', 'wellness', 'session', 'today', '!']",1,0
+897,I amazing my fit session today!,"['i', 'amazing', 'my', 'fit', 'session', 'today', '!']",1,0
+898,I positive my weight loss session today!,"['i', 'positive', 'my', 'weight', 'loss', 'session', 'today', '!']",0,0
+899,Today was the hate day for my balanced diet. I feel so worst about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'balanced', 'diet', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",0,1
+900,Today was the bad day for my motivation. I feel so hate about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'motivation', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+901,Today was the negative day for my motivation. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'motivation', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+902,Today was the hate day for my personal trainer. I feel so poor about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+903,I fantastic my yoga session today!,"['i', 'fantastic', 'my', 'yoga', 'session', 'today', '!']",1,0
+904,I excellent my health session today!,"['i', 'excellent', 'my', 'health', 'session', 'today', '!']",1,0
+905,I excellent my gluten-free session today!,"['i', 'excellent', 'my', 'gluten-free', 'session', 'today', '!']",0,1
+906,Today was the horrible day for my portion sizes. I feel so horrible about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'portion', 'sizes', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,0
+907,I happy my diet session today!,"['i', 'happy', 'my', 'diet', 'session', 'today', '!']",0,1
+908,Today was the sad day for my pilates. I feel so sad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'pilates', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+909,I amazing my healthy snacks session today! It really made a difference in my powerlifting!,"['i', 'amazing', 'my', 'healthy', 'snacks', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'powerlifting', '!']",1,0
+910,I excellent my detox session today! It really made a difference in my stretching!,"['i', 'excellent', 'my', 'detox', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'stretching', '!']",1,1
+911,I happy my yoga session today!,"['i', 'happy', 'my', 'yoga', 'session', 'today', '!']",1,0
+912,I good my fat loss session today!,"['i', 'good', 'my', 'fat', 'loss', 'session', 'today', '!']",0,0
+913,Today was the disappointing day for my calories. I feel so bad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'calories', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+914,I fantastic my vegetarian session today! It really made a difference in my exercise!,"['i', 'fantastic', 'my', 'vegetarian', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'exercise', '!']",1,1
+915,I positive my Mediterranean diet session today!,"['i', 'positive', 'my', 'mediterranean', 'diet', 'session', 'today', '!']",0,1
+916,Today was the negative day for my fat loss. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'fat', 'loss', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+917,Today was the sad day for my health. I feel so bad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'health', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+918,Today was the worst day for my superfoods. I feel so bad about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'superfoods', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+919,Today was the bad day for my flexibility. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'flexibility', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+920,Today was the sad day for my fit. I feel so hate about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'fit', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+921,Today was the horrible day for my minerals. I feel so horrible about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'minerals', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+922,Today was the bad day for my stamina. I feel so horrible about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'stamina', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+923,Today was the horrible day for my push-up. I feel so bad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'push-up', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",1,0
+924,I positive my core session today! It really made a difference in my strength!,"['i', 'positive', 'my', 'core', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'strength', '!']",2,0
+925,I amazing my gym session today!,"['i', 'amazing', 'my', 'gym', 'session', 'today', '!']",1,0
+926,I great my superfoods session today!,"['i', 'great', 'my', 'superfoods', 'session', 'today', '!']",0,1
+927,I positive my gluten-free session today! It really made a difference in my running!,"['i', 'positive', 'my', 'gluten-free', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'running', '!']",1,1
+928,Today was the disappointing day for my cycling. I feel so hate about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'cycling', '.', 'i', 'feel', 'so', 'hate', 'about', 'it', '.']",1,0
+929,I excellent my aerobics session today! It really made a difference in my yoga!,"['i', 'excellent', 'my', 'aerobics', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'yoga', '!']",2,0
+930,Today was the sad day for my vitamins. I feel so sad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'vitamins', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+931,Today was the sad day for my detox. I feel so sad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'detox', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+932,I amazing my high-protein session today! It really made a difference in my muscle!,"['i', 'amazing', 'my', 'high-protein', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', '!']",1,1
+933,Today was the hate day for my pilates. I feel so negative about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'pilates', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+934,Today was the bad day for my powerlifting. I feel so poor about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'powerlifting', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+935,Today was the disappointing day for my strength. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'strength', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+936,Today was the worst day for my core. I feel so poor about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'core', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",1,0
+937,I good my whole foods session today! It really made a difference in my active lifestyle!,"['i', 'good', 'my', 'whole', 'foods', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'active', 'lifestyle', '!']",0,0
+938,I amazing my fitness session today!,"['i', 'amazing', 'my', 'fitness', 'session', 'today', '!']",1,0
+939,Today was the sad day for my diet. I feel so disappointing about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'diet', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+940,Today was the negative day for my vegetarian. I feel so disappointing about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'vegetarian', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,1
+941,I fantastic my fiber session today!,"['i', 'fantastic', 'my', 'fiber', 'session', 'today', '!']",0,1
+942,Today was the sad day for my diet. I feel so sad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'diet', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+943,I good my hiit session today! It really made a difference in my burpees!,"['i', 'good', 'my', 'hiit', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'burpees', '!']",2,0
+944,I good my muscle gain session today!,"['i', 'good', 'my', 'muscle', 'gain', 'session', 'today', '!']",1,0
+945,Today was the poor day for my fiber. I feel so horrible about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'fiber', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",0,1
+946,I happy my healthy snacks session today!,"['i', 'happy', 'my', 'healthy', 'snacks', 'session', 'today', '!']",0,0
+947,Today was the sad day for my Mediterranean diet. I feel so bad about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'mediterranean', 'diet', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,1
+948,I good my keto session today! It really made a difference in my muscle gain!,"['i', 'good', 'my', 'keto', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'muscle', 'gain', '!']",1,1
+949,Today was the hate day for my gym. I feel so disappointing about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'gym', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+950,Today was the disappointing day for my powerlifting. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'powerlifting', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+951,I happy my sports session today!,"['i', 'happy', 'my', 'sports', 'session', 'today', '!']",1,0
+952,Today was the worst day for my squat. I feel so worst about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'squat', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+953,I happy my low-sodium session today! It really made a difference in my bodybuilding!,"['i', 'happy', 'my', 'low-sodium', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodybuilding', '!']",1,1
+954,I good my strength training session today!,"['i', 'good', 'my', 'strength', 'training', 'session', 'today', '!']",2,0
+955,Today was the bad day for my flexibility. I feel so horrible about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'flexibility', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+956,I great my detox session today! It really made a difference in my workout!,"['i', 'great', 'my', 'detox', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'workout', '!']",1,1
+957,I happy my health session today!,"['i', 'happy', 'my', 'health', 'session', 'today', '!']",1,0
+958,Today was the poor day for my personal trainer. I feel so sad about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,0
+959,I happy my vitamins session today! It really made a difference in my bodybuilding!,"['i', 'happy', 'my', 'vitamins', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'bodybuilding', '!']",1,1
+960,I excellent my organic session today!,"['i', 'excellent', 'my', 'organic', 'session', 'today', '!']",0,1
+961,Today was the sad day for my weightlifting. I feel so negative about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'weightlifting', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",1,0
+962,I love my clean eating session today! It really made a difference in my hiit!,"['i', 'love', 'my', 'clean', 'eating', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'hiit', '!']",1,0
+963,Today was the poor day for my gmo-free. I feel so negative about it.,"['today', 'was', 'the', 'poor', 'day', 'for', 'my', 'gmo-free', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,1
+964,I amazing my dietary restrictions session today!,"['i', 'amazing', 'my', 'dietary', 'restrictions', 'session', 'today', '!']",0,0
+965,I fantastic my calorie surplus session today! It really made a difference in my workout!,"['i', 'fantastic', 'my', 'calorie', 'surplus', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'workout', '!']",1,0
+966,I great my vegetarian session today! It really made a difference in my aerobics!,"['i', 'great', 'my', 'vegetarian', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'aerobics', '!']",1,1
+967,I excellent my dietary restrictions session today!,"['i', 'excellent', 'my', 'dietary', 'restrictions', 'session', 'today', '!']",0,0
+968,I fantastic my strength training session today!,"['i', 'fantastic', 'my', 'strength', 'training', 'session', 'today', '!']",2,0
+969,Today was the negative day for my aerobics. I feel so horrible about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'aerobics', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+970,Today was the negative day for my portion sizes. I feel so poor about it.,"['today', 'was', 'the', 'negative', 'day', 'for', 'my', 'portion', 'sizes', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+971,I happy my strength training session today! It really made a difference in my weight loss!,"['i', 'happy', 'my', 'strength', 'training', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'weight', 'loss', '!']",2,0
+972,I good my cardio session today! It really made a difference in my health!,"['i', 'good', 'my', 'cardio', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'health', '!']",2,0
+973,I love my sugar-free session today!,"['i', 'love', 'my', 'sugar-free', 'session', 'today', '!']",0,1
+974,Today was the horrible day for my healthy snacks. I feel so bad about it.,"['today', 'was', 'the', 'horrible', 'day', 'for', 'my', 'healthy', 'snacks', '.', 'i', 'feel', 'so', 'bad', 'about', 'it', '.']",0,0
+975,I excellent my carbohydrates session today! It really made a difference in my health!,"['i', 'excellent', 'my', 'carbohydrates', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'health', '!']",1,1
+976,I good my vegetarian session today! It really made a difference in my hiit!,"['i', 'good', 'my', 'vegetarian', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'hiit', '!']",1,1
+977,I great my muscle gain session today! It really made a difference in my recovery!,"['i', 'great', 'my', 'muscle', 'gain', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'recovery', '!']",2,0
+978,Today was the sad day for my bodybuilding. I feel so disappointing about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'bodybuilding', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+979,I happy my personal trainer session today!,"['i', 'happy', 'my', 'personal', 'trainer', 'session', 'today', '!']",0,0
+980,Today was the disappointing day for my fitness. I feel so disappointing about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'fitness', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+981,Today was the disappointing day for my fitness goals. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'fitness', 'goals', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+982,I happy my minerals session today!,"['i', 'happy', 'my', 'minerals', 'session', 'today', '!']",0,1
+983,I fantastic my sports session today!,"['i', 'fantastic', 'my', 'sports', 'session', 'today', '!']",1,0
+984,Today was the bad day for my weightlifting. I feel so horrible about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'weightlifting', '.', 'i', 'feel', 'so', 'horrible', 'about', 'it', '.']",1,0
+985,I happy my exercise session today!,"['i', 'happy', 'my', 'exercise', 'session', 'today', '!']",1,0
+986,I fantastic my low-carb session today! It really made a difference in my gym!,"['i', 'fantastic', 'my', 'low-carb', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'gym', '!']",1,1
+987,I love my meal plan session today!,"['i', 'love', 'my', 'meal', 'plan', 'session', 'today', '!']",0,0
+988,I amazing my portion control session today!,"['i', 'amazing', 'my', 'portion', 'control', 'session', 'today', '!']",0,0
+989,Today was the hate day for my meal prep. I feel so negative about it.,"['today', 'was', 'the', 'hate', 'day', 'for', 'my', 'meal', 'prep', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+990,I great my high-protein session today! It really made a difference in my core!,"['i', 'great', 'my', 'high-protein', 'session', 'today', '!', 'it', 'really', 'made', 'a', 'difference', 'in', 'my', 'core', '!']",1,1
+991,Today was the disappointing day for my running. I feel so worst about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'running', '.', 'i', 'feel', 'so', 'worst', 'about', 'it', '.']",1,0
+992,Today was the sad day for my workout. I feel so disappointing about it.,"['today', 'was', 'the', 'sad', 'day', 'for', 'my', 'workout', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",1,0
+993,Today was the bad day for my high-protein. I feel so sad about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'high-protein', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",0,1
+994,Today was the disappointing day for my personal trainer. I feel so negative about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'personal', 'trainer', '.', 'i', 'feel', 'so', 'negative', 'about', 'it', '.']",0,0
+995,I love my organic session today!,"['i', 'love', 'my', 'organic', 'session', 'today', '!']",0,1
+996,Today was the bad day for my healthy snacks. I feel so poor about it.,"['today', 'was', 'the', 'bad', 'day', 'for', 'my', 'healthy', 'snacks', '.', 'i', 'feel', 'so', 'poor', 'about', 'it', '.']",0,0
+997,Today was the worst day for my bodyweight exercises. I feel so disappointing about it.,"['today', 'was', 'the', 'worst', 'day', 'for', 'my', 'bodyweight', 'exercises', '.', 'i', 'feel', 'so', 'disappointing', 'about', 'it', '.']",0,0
+998,Today was the disappointing day for my fit. I feel so sad about it.,"['today', 'was', 'the', 'disappointing', 'day', 'for', 'my', 'fit', '.', 'i', 'feel', 'so', 'sad', 'about', 'it', '.']",1,0
+999,I amazing my macronutrients session today!,"['i', 'amazing', 'my', 'macronutrients', 'session', 'today', '!']",0,1
+1000,I excellent my healthy eating session today!,"['i', 'excellent', 'my', 'healthy', 'eating', 'session', 'today', '!']",0,0
+1001,"Hi,{788}hjd bad sorry[]/.","['hi', ',', '{', '788', '}', 'hjd', 'bad', 'sorry', '[', ']', '/', '.']",0,0
+1002,"Hi,{788}hjd bad sorry[]/.","['hi', ',', '{', '788', '}', 'hjd', 'bad', 'sorry', '[', ']', '/', '.']",0,0
+1003,"Hi,{788}hjd bad sorry[]/.","['hi', ',', '{', '788', '}', 'hjd', 'bad', 'sorry', '[', ']', '/', '.']",0,0
